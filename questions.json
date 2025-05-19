@@ -1,0 +1,470 @@
+[
+    {
+        "id": 1,
+        "topic": "Mechanics",
+        "question": "A 2 kg ball is thrown upwards with an initial velocity of 20 m/s from ground level. What is the total energy of the system when the ball reaches its maximum height?",
+        "options": [
+            "A)10J",
+            "B)20J",
+            "C)100J",
+            "D)200J"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    },
+    {
+        "id": 2,
+        "topic": "Mechanics",
+        "question": "A 5 kg object is initially at rest on the ground. It is then lifted vertically to a height of 20 meters and acquires a velocity of 3 m/s at that position. What is the change in the object's total mechanical energy during this process?",
+        "options": [
+            "A)14.5J",
+            "B)104.5J",
+            "C)1004.5J",
+            "D)981J"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    },
+    {
+        "id": 3,
+        "topic": "Mechanics",
+        "question": "A book rests on a table. Which of the following statements correctly describes an action-reaction pair involving the book?",
+        "options": [
+            "A) The Earth’s gravity pulls the book downward , and the table pushes the book upward",
+            "B)The book exerts a downward force on the table, and the table exerts an upward force on the book",
+            "C)The book pushes the table , and air resistance pushes back on the book",
+            "D)The table supports the book , and the book’s mass creates friction"
+        ],
+        "correctAnswer": "B）The book exerts a downward force on the table, and the table exerts an upward force on the book",
+        "solution": "A:The reaction to Earth’s gravity is the book pulling up on the Earth, not the table’s normal force. C:Air resistance is unrelated to the book-table interaction D:The table’s force and friction are unrelated Third Law pairs."
+    },
+    {
+        "id": 4,
+        "topic": "Mechanics",
+        "question": "A rubber ball strikes a wall and bounces back. Which of the following statements is/are correct?",
+        "options": [
+            "A) The total momentum of the ball and the wall is conserved.",
+            "B) The momentum of the ball is conserved.",
+            "C) The momentum of the wall is conserved.",
+            "D) None of the above."
+        ],
+        "correctAnswer": "A The total momentum of the ball and the wall is conserved.",
+        "solution": "A:Momentum is always conserved in a system if no external forces act. The ball-wall system is isolated during the collision, so their total momentum remains unchanged"
+    },
+    {
+        "id": 5,
+        "topic": "Mechanics",
+        "question": "A uniform 4-meter-long beam of negligible weight is balanced at its pivot. A 6 kg mass is placed 1 meter to the left of the pivot. What mass must be placed 2 meters to the right of the pivot to keep the beam in equilibrium?",
+        "options": [
+            "A) 1.5 kg",
+            "B) 3 kg",
+            "C) 4.5 kg",
+            "D) 6 kg"
+        ],
+        "correctAnswer": "B3kg",
+        "solution": ""
+    },
+    {
+        "id": 6,
+        "topic": "Mechanics",
+        "question": "A motorcyclist traveling at 90 km/h on a straight road suddenly notices a traffic signal 75 meters ahead turning red. If the rider's reaction time is 0.4 seconds, what is the minimum deceleration required to stop safely before the signal?",
+        "options": [
+            "A) 3.15 m s⁻²",
+            "B) 3.82 m s⁻²",
+            "C) 4.25 m s⁻²",
+            "D) 4.81 m s⁻²"
+        ],
+        "correctAnswer": "D4.81 m s⁻²",
+        "solution": "25* 0.4 =10m      75-10=65m 0=25^2 + 2a(65),    a= -4.81m s⁻²"
+    },
+    {
+        "id": 7,
+        "topic": "Mechanics",
+        "question": "An object at rest will remain at rest unless acted upon by:",
+        "options": [
+            "A) A net force",
+            "B) Gravity",
+            "C) Friction",
+            "D) An external agent"
+        ],
+        "correctAnswer": "(Anet force",
+        "solution": ""
+    },
+    {
+        "id": 8,
+        "topic": "Mechanics",
+        "question": "According to Newton's second law, the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its:",
+        "options": [
+            "A) Mass",
+            "B) Velocity",
+            "C) Temperature",
+            "D) Distance"
+        ],
+        "correctAnswer": "(A Mass",
+        "solution": ""
+    },
+    {
+        "id": 9,
+        "topic": "Mechanics",
+        "question": "When a person pushes against a wall, the wall pushes back with an equal and opposite force. This demonstrates which law?",
+        "options": [
+            "A) First Law",
+            "B) Second Law",
+            "C) Third Law",
+            "D) Law of Conservation of Momentum"
+        ],
+        "correctAnswer": "(C Third Law",
+        "solution": ""
+    },
+    {
+        "id": 10,
+        "topic": "Mechanics",
+        "question": "Which of the following is not a vector?",
+        "options": [
+            "A) Velocity",
+            "B) Force",
+            "C) Momentum",
+            "D) Speed"
+        ],
+        "correctAnswer": "D",
+        "solution": ""
+    },
+    {
+        "id": 2,
+        "topic": "Mechanics",
+        "question": "i) Velocity\tii)  Initial speed\tiii) Final speed\tiv) Mass",
+        "options": [
+            "A) ii,iii",
+            "B) i, iv",
+            "C) i,ii,iii",
+            "D) ii,iii,iv"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 11,
+        "topic": "Mechanics",
+        "question": "A force of 36 N is applied to a 999 g object. What is the acceleration of the object?",
+        "options": [
+            "A)  0.36m/s²",
+            "B) 36.0 m/s²",
+            "C) 27.8 m/s²",
+            "D) 2.78 m/s²"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 12,
+        "topic": "Mechanics",
+        "question": "An object is moving at 25 m/s and comes to a stop in 5 seconds. What is the average acceleration?",
+        "options": [
+            "A) -5 m/s²",
+            "B) -10 m/s²",
+            "C) 10 m/s²",
+            "D) 5 m/s²"
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 13,
+        "topic": "Mechanics",
+        "question": "If a 0.0865 kg object is acted upon by a net force of  3N, what will be its acceleration?",
+        "options": [
+            "A) 34.6 m/s²",
+            "B) 84.0 m/s²",
+            "C) 29.9 m/s²",
+            "D) 28.4 m/s²"
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 14,
+        "topic": "Mechanics",
+        "question": "A car accelerates from rest to  0.07 km/s in 2 seconds. What is the acceleration of the car?",
+        "options": [
+            "A) 30 m/s²",
+            "B) 33 m/s²",
+            "C) 35 m/s²",
+            "D) 39 m/s²"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    },
+    {
+        "id": 15,
+        "topic": "Mechanics",
+        "question": "If a 20 kg object is pushed with a force of 80 N, what is its acceleration?",
+        "options": [
+            "A) 2 m/s²",
+            "B) 3 m/s²",
+            "C) 4 m/s²",
+            "D) 5 m/s²"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    },
+    {
+        "id": 16,
+        "topic": "Mechanics",
+        "question": "An object is thrown upward with an initial velocity of 20 m/s. How high will it rise before coming to a stop?",
+        "options": [
+            "A) 10 m",
+            "B) 20 m",
+            "C) 30 m",
+            "D) 40 m"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 17,
+        "topic": "Mechanics",
+        "question": "A 5 kg object is sliding on a frictionless surface with a speed of 10 m/s. What is its momentum?",
+        "options": [
+            "A) 10 kg·m/s",
+            "B) 25 kg·m/s",
+            "C) 50 kg·m/s",
+            "D) 100 kg·m/s"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    },
+    {
+        "id": 18,
+        "topic": "Mechanics",
+        "question": "What is the net force acting on a 4 kg object that is accelerating at 3 m/s²?",
+        "options": [
+            "A) 4 N",
+            "B) 12 N",
+            "C) 16 N",
+            "D) 20 N"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 19,
+        "topic": "Mechanics",
+        "question": "Which of the following changes will lead to a decrease in pressure, assuming the amount of gas remains the same?",
+        "options": [
+            "A) Increasing the volume while keeping temperature constant.",
+            "B) Decreasing the volume while keeping temperature constant.",
+            "C) Increasing the temperature while keeping volume constant.",
+            "D) Adding more gas to the system at constant volume and temperature."
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 20,
+        "topic": "Mechanics",
+        "question": "What happens to the pressure of a gas if its volume is halved while temperature remains constant?",
+        "options": [
+            "A)Pressure doubles",
+            "B)Pressure halves",
+            "C)Pressure remains the same",
+            "D)Pressure quadruples"
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 3,
+        "topic": "Mechanics",
+        "question": "When ball B touch the ground, ball A is above ball B. 2 balls will never meet",
+        "options": [
+            "A)(1)",
+            "B)(2)",
+            "C)(1),(2)",
+            "D)None of the above"
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 21,
+        "topic": "Mechanics",
+        "question": "Assume no friction.When a man stands on the Earth, push the box forward with his hand, what will happen?",
+        "options": [
+            "A)The box move forward",
+            "B)The box move backward",
+            "C)The box move upward",
+            "D)None of the above"
+        ],
+        "correctAnswer": "D",
+        "solution": ""
+    },
+    {
+        "id": 22,
+        "topic": "Mechanics",
+        "question": "Assume no friction and have air resistance.When a man stands on the Earth, pushes the box forward with his hand, what will happen?",
+        "options": [
+            "A)The box move forward",
+            "B)The box move backward",
+            "C)The box move upward",
+            "D)None of the above"
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 23,
+        "topic": "Mechanics",
+        "question": "When you are scrolling reels/shorts/tick tock, if you push your finger from bottom to top of the screen, what will happen?Assume no friction.",
+        "options": [
+            "A)You watch the next reel",
+            "B)You watch the last reel",
+            "C)You stay in the reel you are watching",
+            "D)none of the above"
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 24,
+        "topic": "Mechanics",
+        "question": "When you are scrolling reels/shorts/tick tock, if you push your finger from bottom to top of the screen on an iPhone 4, what will happen?Assume no friction.",
+        "options": [
+            "A)You watch the next reel",
+            "B)You watch the last reel",
+            "C)You stay in the reel you are watching",
+            "D)none of the above"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    },
+    {
+        "id": 25,
+        "topic": "Mechanics",
+        "question": "Marcy pulls a backpack on wheels down the 100m hall. The 60N force is applied at an angle of 30° above the horizontal. How much work is done by Marcy?",
+        "options": [
+            "A)3800",
+            "B)5200",
+            "C)1500",
+            "D)4300"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 26,
+        "topic": "Mechanics",
+        "question": "A 30,000-kg freight car is coasting at 0.850 m/s and it crashed with a 10,000 kg train .  What is the final velocity of the freight car?",
+        "options": [
+            "A)1.3",
+            "B)0",
+            "C)0.396",
+            "D)0.182"
+        ],
+        "correctAnswer": "D",
+        "solution": ""
+    },
+    {
+        "id": 27,
+        "topic": "Mechanics",
+        "question": "What is the velocity of a 900-kg car initially moving at 30.0 m/s, just after it hits a 150-kg deer initially running at 12.0 m/s in the same direction? Assume the deer remains in the car.",
+        "options": [
+            "A)30",
+            "B)27.4",
+            "C)32.1",
+            "D)24.6"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 28,
+        "topic": "Mechanics",
+        "question": "A tennis ball is struck such that it leaves the racket horizontally with a speed of 28.0 m/s. The ball hits the court at a horizontal distance of 19.6 m from the racket. What is the vertical height of the tennis ball when it leaves the racket?",
+        "options": [
+            "A)2.2",
+            "B)1.7",
+            "C)2.4",
+            "D)3.4"
+        ],
+        "correctAnswer": "C",
+        "solution": "0.5x9.81x0.7^(2)"
+    },
+    {
+        "id": 29,
+        "topic": "Mechanics",
+        "question": "A nurse pushes a cart by exerting a force on the handle at a downward angle 35.0° below the horizontal. The loaded cart has a mass of 28.0 kg, and the force of friction is 60.0 N.What force must the nurse exert to move at a constant velocity?",
+        "options": [
+            "A)76",
+            "B)73",
+            "C)34",
+            "D)80"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 30,
+        "topic": "Mechanics",
+        "question": "When an object is projected vertically upwards, its velocity is ___ at the highest point.",
+        "options": [
+            "A)same as start",
+            "B)zero",
+            "C)increased",
+            "D)decreased"
+        ],
+        "correctAnswer": "B",
+        "solution": ""
+    },
+    {
+        "id": 2,
+        "topic": "Mechanics",
+        "question": "i)backwards ii)forwards iii)downwards",
+        "options": [
+            "A)ii only",
+            "B)i and iii only",
+            "C)ii and iii only",
+            "D)all of the above"
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 31,
+        "topic": "Mechanics",
+        "question": "Which of the following statements is true about Newton’s FIRST Law?",
+        "options": [
+            "A) An object at rest remains at rest unless there is an unbalanced force acting on it.",
+            "B) The net force acting on an object is equal to its mass times its acceleration.",
+            "C) For every action, there is an equal and opposite reaction.",
+            "D) Mr Man is very cute."
+        ],
+        "correctAnswer": "A",
+        "solution": ""
+    },
+    {
+        "id": 32,
+        "topic": "Mechanics",
+        "question": "Mr Man and Mr Hung both run from A to B. Mr Man has an average speed of 1ms-1 and Mr Hung has an average speed of 2ms-1. Which of the following must be true?",
+        "options": [
+            "A) The magnitude of Mr Hung’s average velocity is higher than the magnitude of Mr Man’s average velocity.",
+            "B) If they start at A at the same time, Mr Hung will reach B first.",
+            "C) The displacement of Mr Man is the same as the displacement of Mr Hung.",
+            "D) None of the above"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    },
+    {
+        "id": 33,
+        "topic": "Mechanics",
+        "question": "Box A of mass 30kg and Box B of mass 3kg were released from rest in vacuum. Which box will reach the ground first?",
+        "options": [
+            "A) Box A",
+            "B) Box B",
+            "C) They reach the ground at the same time",
+            "D) Cannot determine"
+        ],
+        "correctAnswer": "C",
+        "solution": ""
+    }
+]
