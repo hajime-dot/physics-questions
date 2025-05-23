@@ -433,30 +433,42 @@
     },
     {
         "number": 37,
-        "text": "A car weighted 500N travelling with a speed of 20m/s on a highway and crashed to a bus weighted 1000N that was stopped beside the road.Neglecting the friction of the bus then moved 10 metres after a second, what is the velocity when the car hit the bus?",
+        "text": "Which of the following statements about domestic circuits is/are correct? The live (L) wire is sometimes positive and sometimes negative with respect to the neutral (N) The kilowatt-hour meter measures the total power consumed by the domestic electrical appliances. With more electrical appliances connected, the total resistance of the domestic circuit becomes smaller.",
         "options": {
-            "A": "m/s",
-            "B": "0m/s",
-            "C": ".67m/s",
-            "D": "m/s"
+            "A": "(2) only",
+            "B": "(1) and (3) only",
+            "C": "(2) and (3) only",
+            "D": "(1), (2), and (3)"
         },
-        "correct_answer": "",
-        "explanation": "Conservation of momentum"
+        "correct_answer": "B",
+        "explanation": "Kilowatt-hour meter measures the consumed energy flowing through a circuit"
     },
     {
         "number": 38,
-        "text": "A car was travelling at 10m/s, the driver saw a dog on the road and applied the brake with in 0.394s, the car finally came to a stop after 10s, what is the acceleration of the car?",
+        "text": "Submarines employ ultrasound instead of microwaves to detect obstacles in the sea. This is because",
         "options": {
-            "A": "",
-            "B": "2",
-            "C": "9.27",
-            "D": ".27"
+            "A": "wavelengths of ultrasound are shorter than those of microwaves",
+            "B": "ultrasound travels faster than microwaves in the sea",
+            "C": "microwaves are easily absorbed by sea water",
+            "D": "microwaves diffract too much in the sea"
         },
-        "correct_answer": "",
-        "explanation": "reaction time is included in the total time"
+        "correct_answer": "C",
+        "explanation": "N/A"
     },
     {
         "number": 39,
+        "text": "Which of the following may contain sources of ionizing radiations ? sea water a rock sample human body",
+        "options": {
+            "A": "(2) only",
+            "B": "(1) and (3) only",
+            "C": "(2) and (3) only",
+            "D": "(1), (2), and (3)"
+        },
+        "correct_answer": "D",
+        "explanation": "N/A"
+    },
+    {
+        "number": 40,
         "text": "A car weighted 500N travelling with a speed of 20m/s on a highway and crashed to a bus weighted 1000N that was stopped beside the road.Neglecting the friction of the bus then moved 10 metres after a second, what is the velocity when the car hit the bus?",
         "options": {
             "A": "m/s",
@@ -468,7 +480,7 @@
         "explanation": "Conservation of momentum"
     },
     {
-        "number": 40,
+        "number": 41,
         "text": "A car was travelling at 10m/s, the driver saw a dog on the road and applied the brake with in 0.394s, the car finally came to a stop after 10s, what is the acceleration of the car?",
         "options": {
             "A": "",
@@ -480,7 +492,331 @@
         "explanation": "reaction time is included in the total time"
     },
     {
-        "number": 41,
+        "number": 42,
+        "text": "Two radioactive nuclides A and B have half-lives of 5 and 8 hours respectively. Initially, there are an equal amount of particles A and B. After 40 hours, the number of undecayed nuclei of A and B are NA and NB respectively. Find NA:NB.",
+        "options": {
+            "A": "8:5",
+            "B": "8:1",
+            "C": "1:8",
+            "D": "5:8"
+        },
+        "correct_answer": "C",
+        "explanation": "Nuclide A went through 8 half-lives and nuclide B went through 5 half-lives within the 40 hours. Let x be the initial number of particles of both nuclides. Number of undecayed nuclei of A(NA) and B(NB) are (x/256) and (x/32) respectively. NA:NB = 1:8."
+    },
+    {
+        "number": 43,
+        "text": "Which of the following statements is/are incorrect? \u03b1-particles have a stronger penetrating power than \u03b2-particles. \u03b3 radiation can be absorbed by a 20mm thick lead block. \u03b1, \u03b2, \u03b3 radiations all undergo deflections in an electric field.",
+        "options": {
+            "A": "(1) only",
+            "B": "(1) & (3) only",
+            "C": "(2) & (3) only",
+            "D": "(1), (2), and (3)"
+        },
+        "correct_answer": "D",
+        "explanation": "\u03b2-particles have a stronger penetrating power than \u03b1-particles. \u03b3 radiation can be absorbed by a 25mm thick lead block. \u03b3 radiation does not deflect in an electric field."
+    },
+    {
+        "number": 44,
+        "text": "No. of electrons\tNo. of neutrons A uranium-238 particle (atomic number: 92) undergoes a decay series. Which of the following electron/neutron combination is not possible for a particle in the decay series?",
+        "options": {
+            "A": "90\t\t\t144",
+            "B": "87\t\t\t133",
+            "C": "90\t\t\t136",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "explanation": "https://periodictable.com/Isotopes/092.238/index.full.html"
+    },
+    {
+        "number": 45,
+        "text": "Which of the following statements is correct?",
+        "options": {
+            "A": "A fuse should be installed in the earth wire.",
+            "B": "A 10A fuse is suitable for an electrical appliance of rating \u201c220 V, 1500 W\u201d.",
+            "C": "Switches should be installed on neutral wires.",
+            "D": "The resistance of a \u201c220 V,  55 W\u201d light bulb is greater than that of a \u201c220 V, 44 W\u201d light bulb."
+        },
+        "correct_answer": "B",
+        "explanation": "A: fuses should be installed on live wires. B: the peak voltage of an electrical appliance of rating \u201c220 V, 1500 W\u201d is (1500/220)*\u221a2 = 9.64 V < 10 V C: switches should be installed on live wires. D: resistance of a \u201c220 V, 55 W\u201d light bulb = (220^2/55) = 880 \u03a9 ; resistance of a \u201c220 V, 44 W\u201d light bulb = (220^2/44) = 1100 \u03a9 > 880 \u03a9"
+    },
+    {
+        "number": 46,
+        "text": "Which of the following would increase power output of a circuit?",
+        "options": {
+            "A": "Increase circuit wire length",
+            "B": "Use direct current instead of alternating current",
+            "C": "Increase surface area of wire",
+            "D": "Decrease voltage output"
+        },
+        "correct_answer": "C",
+        "explanation": "A: increases resistance \u2192 lower power output B: has no effect on power output C: by R = pl/A, increase in surface area reduces R which increases power output D: by P = VI, power output decreases"
+    },
+    {
+        "number": 47,
+        "text": "Which of the following statements is correct?",
+        "options": {
+            "A": "Simple a.c. generators use commutators to alternate the current.",
+            "B": "In a simple d.c. generator, the commutator reverses the current every turn to keep the coil rotating in the same direction.",
+            "C": "In a simple d.c. generator, the turning force is the largest when the coil is vertical.",
+            "D": "When the coil is rotated faster, the period of each rotation decreases."
+        },
+        "correct_answer": "D",
+        "explanation": "A: Simple d.c. generators use commutators to alternate the current every half turn. B: commutators reverse the current every HALF turn to keep the coil rotating in the same direction. C: There is no turning force when the coil is vertical, only inertia pushing the coil past the vertical."
+    },
+    {
+        "number": 48,
+        "text": "Which of the following statements will increase the magnitude of the magnetic field inside a long solenoid? (1) increasing number of turns per unit length of the solenoid (2) increasing the cross-sectional area of the solenoid (3) increasing the length of the solenoid",
+        "options": {
+            "A": "(1) only",
+            "B": "(1) and (2) only",
+            "C": "(2) and (3) only",
+            "D": "(1), (2) and (3)"
+        },
+        "correct_answer": "B",
+        "explanation": "(3) does not change magnitude of magnetic field"
+    },
+    {
+        "number": 49,
+        "text": "1.2V 2V 5V 12V A circuit contains a 12V battery and two resistors which are 6 and 4 respectively arranged in parallel. What is the voltage across the 6 voltage?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "D",
+        "explanation": "In parallel structure, each branch will have the same amount of voltage."
+    },
+    {
+        "number": 50,
+        "text": "A spaceship is gonna fly to Mars. Currently, it\u2019s in a uniform circular motion and orbiting Earth with an angular velocity of 4.42 rad/h. At what linear speed should it exceed in order to escape from the Earth? (Given that the Earth\u2019s mass = 5.97e24 kg and the Earth\u2019s radius = 6.37e6 m) (The Escape velocity is \u221a2 times the linear velocity)",
+        "options": {
+            "A": "1.1nm/s",
+            "B": "1.1\u03bcm/s",
+            "C": "1.1km/s",
+            "D": "1.1m/s"
+        },
+        "correct_answer": "C",
+        "explanation": "\u03c9=1.2278e-3 rad/s r=6.41e6m Linear velocity = 7.87km/s Escaspe velocity = 11.13km/s"
+    },
+    {
+        "number": 51,
+        "text": "Light from a distant galaxy is red-shifted. What does this imply?",
+        "options": {
+            "A": "alaxy moves towards us.",
+            "B": "alaxy is stationary.",
+            "C": "alaxy moves away.",
+            "D": "ight is refracted."
+        },
+        "correct_answer": "C",
+        "explanation": "Doppler effect. By v=\u0192\ud835\udf06, v is unchanged since it equals c in vacuum, \ud835\udf06 increases since the galaxy is moving away, therefore \u0192 decreases and the light is red-shifted."
+    },
+    {
+        "number": 52,
+        "text": "A spaceship uses rotating sections to simulate gravity. If a section rotates at 7 rpm with a radius of 15 meters, how many G-forces do the astronauts feel?",
+        "options": {
+            "A": "96G",
+            "B": "G",
+            "C": ".82G",
+            "D": "8G"
+        },
+        "correct_answer": "C",
+        "explanation": "\u03c9=0.733 rad/s a=8.06 m/s\u00b2 G-force=8.06/9.81=0.82G"
+    },
+    {
+        "number": 53,
+        "text": "A naughty boy, Eric, is playing with 100g of uranium-235. After some time, he found that only 25g of uranium-235 was left. How long has it been? (Given that the half-life of uranium-235 is 7e8 years)",
+        "options": {
+            "A": "9 hours",
+            "B": "5 days",
+            "C": ".4e9 years",
+            "D": "4 weeks"
+        },
+        "correct_answer": "C",
+        "explanation": "After 1 half-life (7e8 years): 100g -> 50g After 2 half-lives (1.4e9 years): 50g -> 25g"
+    },
+    {
+        "number": 54,
+        "text": "Thomas the Phantom Thief plans to disable a museum\u2019s security system by overloading an alarm rated at 12V, 24W by connecting a resistor in parallel, and steal the famous pearl Black Star. What can\u2019t be the resistance of the resistor he connects to the wires?",
+        "options": {
+            "A": "\u03a9",
+            "B": "\u03a9",
+            "C": "\u03a9",
+            "D": "\u03a9"
+        },
+        "correct_answer": "C",
+        "explanation": "Resistance of alarm = 12\u00b2/24 = 6\u03a9 With resistances less than 6\u03a9, the current of the alarm can be doubled at least, overloading the circuit or even shorting the circuit. However, with a resistor of 9\u03a9, the new equivalent resistance will be smaller than the original, which won\u2019t cause overloading."
+    },
+    {
+        "number": 55,
+        "text": "Bethel accidentally falls into a star with a core temperature of 20,000 K and a surface pressure of 1 atm. At a depth where the temperature is 5,000 K, assuming an ideal gas and constant density, what will be the pressure that he experiences? (Given that for an ideal gas with constant density, P/T is constant)",
+        "options": {
+            "A": "50atm",
+            "B": ".5atm",
+            "C": ".25atm",
+            "D": "5atm"
+        },
+        "correct_answer": "C",
+        "explanation": "Since P/T is constant, P/5000 = 1/20000, P = 0.25atm"
+    },
+    {
+        "number": 56,
+        "text": "A solar wind proton with a speed of 4e5 m/s enters Earth\u2019s magnetic field (B = 5e-5 T, assuming uniform) at 90\u00b0. What is the radius of its circular path? (Given that proton mass = 1.67e-27 kg, charge = 1.6e-19 C)",
+        "options": {
+            "A": "44m",
+            "B": "3m",
+            "C": "3.5m",
+            "D": "1m"
+        },
+        "correct_answer": "C",
+        "explanation": "r = mv/QB = 83.5m"
+    },
+    {
+        "number": 57,
+        "text": "Him, running at 1000m/s, accidentally crashed head-on into Sum, who is at rest initially. The impact time is 3ms. If the masses of Him and Sum are 60kg and 70kg, and Him stopped moving after the collision, what\u2019s the average impact force? Assume that the momentum is conserved.",
+        "options": {
+            "A": "128N",
+            "B": "589869056N",
+            "C": "e7 N",
+            "D": "3550336N"
+        },
+        "correct_answer": "C",
+        "explanation": "Change in momentum = mHim(v-u) = -60,000 kg m/s Average impact force = |Change in momentum|/impact time = |-60,000|/0.003=2e7 N"
+    },
+    {
+        "number": 58,
+        "text": "Bethel asks, \u201cWill you love me forever?\u201d \u201cAfter one thousand years, though 41% of my radioactive love will decay, the half-life of my love is \u2026 (years),\u201d Sum replies.",
+        "options": {
+            "A": "201314",
+            "B": "20",
+            "C": "314",
+            "D": "14514"
+        },
+        "correct_answer": "C",
+        "explanation": "N=N0 e^-kt 59%=e^-1000k k=5.28e-4 t\u00bd=ln2/k t\u00bd=1314years"
+    },
+    {
+        "number": 59,
+        "text": "\u201cLong live the emperor!\u201d Sum yelled, and 1e18J of energy is released from his own body, by nuclear reaction, for an unknown reason. How much weight did he lose from the above workout?",
+        "options": {
+            "A": "1.1mg",
+            "B": "1.1Gg",
+            "C": "1.1kg",
+            "D": "1.1Mg"
+        },
+        "correct_answer": "C",
+        "explanation": "By \ud835\udeabE=\ud835\udeabmc\u00b2 \ud835\udeabm=11.1kg"
+    },
+    {
+        "number": 60,
+        "text": "Which statement is true about isotopes They have same number of neutrons",
+        "options": {
+            "A": "",
+            "B": "hey have same number of atoms",
+            "C": "hey have same number of protons",
+            "D": "They hae the same ionizing power"
+        },
+        "correct_answer": "B",
+        "explanation": "They have same number of atoms"
+    },
+    {
+        "number": 61,
+        "text": "which radiation is used for sterilization?",
+        "options": {
+            "A": "lpha radiation",
+            "B": "eta radiation",
+            "C": "amma radiation",
+            "D": "-ray"
+        },
+        "correct_answer": "C",
+        "explanation": "It is"
+    },
+    {
+        "number": 62,
+        "text": "Which of the following activities cant use X-ray cooking Security check Taking photos of the interior of human bodies",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "one of the above"
+        },
+        "correct_answer": "A",
+        "explanation": "we use microwave to cook"
+    },
+    {
+        "number": 63,
+        "text": "What can been shown when we observe a right angled fork tracks in a cloud chamber filled with helium nuclein ? It have a short range in air",
+        "options": {
+            "A": "t carry a positive charge",
+            "B": "t have a strong ionizing power",
+            "C": "t have same mass",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "explanation": "Only when particles have same mass could do elastic collision"
+    },
+    {
+        "number": 64,
+        "text": "After four lhalf-lifes, the percentage of a radioactive element remaining is?",
+        "options": {
+            "A": "%",
+            "B": ".25%",
+            "C": "12.5%",
+            "D": "0%"
+        },
+        "correct_answer": "B",
+        "explanation": "(0.5)^4=0.0625"
+    },
+    {
+        "number": 65,
+        "text": "what is the average background count rate in Hong Kong? 200min^(-1)",
+        "options": {
+            "A": "",
+            "B": "0min^(-1)",
+            "C": "00min^(-1)",
+            "D": "0min^(-1)"
+        },
+        "correct_answer": "",
+        "explanation": "it is"
+    },
+    {
+        "number": 66,
+        "text": "Which of the following is an application of radioactive substances?",
+        "options": {
+            "A": "emotes control",
+            "B": "moke detector",
+            "C": "hotocopier",
+            "D": "ake banknotes detection"
+        },
+        "correct_answer": "B",
+        "explanation": "A:infra red radiation C: electrostatics D: ultraviolet radiation"
+    },
+    {
+        "number": 67,
+        "text": "A car weighted 500N travelling with a speed of 20m/s on a highway and crashed to a bus weighted 1000N that was stopped beside the road.Neglecting the friction of the bus then moved 10 metres after a second, what is the velocity when the car hit the bus?",
+        "options": {
+            "A": "m/s",
+            "B": "0m/s",
+            "C": ".67m/s",
+            "D": "m/s"
+        },
+        "correct_answer": "",
+        "explanation": "Conservation of momentum"
+    },
+    {
+        "number": 68,
+        "text": "A car was travelling at 10m/s, the driver saw a dog on the road and applied the brake with in 0.394s, the car finally came to a stop after 10s, what is the acceleration of the car?",
+        "options": {
+            "A": "",
+            "B": "2",
+            "C": "9.27",
+            "D": ".27"
+        },
+        "correct_answer": "",
+        "explanation": "reaction time is included in the total time"
+    },
+    {
+        "number": 69,
         "text": "A 2 kg ball is thrown upwards with an initial velocity of 20 m/s from ground level. What is the total energy of the system when the ball reaches its maximum height?",
         "options": {
             "A": "0J",
@@ -492,7 +828,7 @@
         "explanation": "KE =\u00bd x2 x10^2 =100"
     },
     {
-        "number": 42,
+        "number": 70,
         "text": "A 5 kg object is initially at rest on the ground. It is then lifted vertically to a height of 20 meters and acquires a velocity of 3 m/s at that position. What is the change in the object's total mechanical energy during this process?",
         "options": {
             "A": "4.5J",
@@ -504,7 +840,7 @@
         "explanation": "981+22.5=1,003.5J"
     },
     {
-        "number": 43,
+        "number": 71,
         "text": "A book rests on a table. Which of the following statements correctly describes an action-reaction pair involving the book?",
         "options": {
             "A": "The Earth\u2019s gravity pulls the book downward , and the table pushes the book upward",
@@ -516,7 +852,7 @@
         "explanation": "A:The reaction to Earth\u2019s gravity is the book pulling up on the Earth, not the table\u2019s normal force. C:Air resistance is unrelated to the book-table interaction D:The table\u2019s force and friction are unrelated Third Law pairs."
     },
     {
-        "number": 44,
+        "number": 72,
         "text": "A rubber ball strikes a wall and bounces back. Which of the following statements is/are correct?",
         "options": {
             "A": "The total momentum of the ball and the wall is conserved.",
@@ -528,7 +864,7 @@
         "explanation": "A:Momentum is always conserved in a system if no external forces act. The ball-wall system is isolated during the collision, so their total momentum remains unchanged"
     },
     {
-        "number": 45,
+        "number": 73,
         "text": "A uniform 4-meter-long beam of negligible weight is balanced at its pivot. A 6 kg mass is placed 1 meter to the left of the pivot. What mass must be placed 2 meters to the right of the pivot to keep the beam in equilibrium?",
         "options": {
             "A": "1.5 kg",
@@ -540,7 +876,7 @@
         "explanation": "6\u00d7 9.81 \u00d7 1 = Mass \u00d7 2 \u00d7 9.81"
     },
     {
-        "number": 46,
+        "number": 74,
         "text": "A motorcyclist traveling at 90 km/h on a straight road suddenly notices a traffic signal 75 meters ahead turning red. If the rider's reaction time is 0.4 seconds, what is the minimum deceleration required to stop safely before the signal?",
         "options": {
             "A": "3.15 m s\u207b\u00b2",
@@ -552,7 +888,355 @@
         "explanation": "90km/h=  25m/s 25* 0.4 =10m      75-10=65m 0=25^2 + 2a(65),    a= -4.81m s\u207b\u00b2"
     },
     {
-        "number": 47,
+        "number": 75,
+        "text": "If the radius of a circular path is halved, what happens to the centripetal acceleration?",
+        "options": {
+            "A": "It doubles",
+            "B": "t halves",
+            "C": "It quadruples",
+            "D": "t remains the same"
+        },
+        "correct_answer": "",
+        "explanation": "a=v^(2)/r"
+    },
+    {
+        "number": 76,
+        "text": "the half life of a radioactive element is 10 days. What fraction of the original sample remains after 30 days? 1/2 \u00bc 1/8",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "/16"
+        },
+        "correct_answer": "C",
+        "explanation": "(\u00bd)^(3)=1/8"
+    },
+    {
+        "number": 77,
+        "text": "A battery has an emf of 12V and an internal resistance of 1 ohm. What is the terminal voltage when it supplies 2A to an external circuit?",
+        "options": {
+            "A": "0V",
+            "B": "2V",
+            "C": "4V",
+            "D": "4V"
+        },
+        "correct_answer": "A",
+        "explanation": "Terminal voltage V= E-Ir V=12-(2x1)=10V"
+    },
+    {
+        "number": 78,
+        "text": "Friction Normal force Horizontal component of normal force",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "ravitational force"
+        },
+        "correct_answer": "C",
+        "explanation": "On a frictionless banked curve, the horizontal component of the normal force provides the centripetal force."
+    },
+    {
+        "number": 79,
+        "text": "Three 1V cells are connected together to form as batteries of a circuit. What's the difference between connecting them in series and parallel? Emf output for Series\tEmf output for Parallel\tBattery Life Longer",
+        "options": {
+            "A": "3V\t\t\t\t3V\t\t\t\tSeries",
+            "B": "1V\t\t\t\t3V\t\t\t\tSeries",
+            "C": "3V\t\t\t\t1V\t\t\t\tParallel",
+            "D": "1V\t\t\t\t3V\t\t\t\tParallel"
+        },
+        "correct_answer": "C",
+        "explanation": "The total emf output of cells connected in series is the sum of all the cells, which is 1+1+1=3. The total output of the cells connected in parallel is the same as that when there is only one cell, so the battery life is longer when the cells are connected in parallel."
+    },
+    {
+        "number": 80,
+        "text": "Which of the following chang(es) in the condition of a conductor will increase the resistance of it? Increase its length Increase its cross sectional area Increase the current passing through it",
+        "options": {
+            "A": "1 only",
+            "B": "1 and 2 only",
+            "C": "1 and 3 only",
+            "D": "2 and 3 only"
+        },
+        "correct_answer": "C",
+        "explanation": "Increasing the length of conductor will increase the resistance of it. Increasing the cross sectional area will DECREASE the resistance of it. Increasing the current passing through it will increase the temperature of the conductor which will increase the resistance of it."
+    },
+    {
+        "number": 81,
+        "text": "Which of the following can make a heater hotter? 1)Increase the Resistance only 2)Increase the Current only 3)Increase the Voltage only",
+        "options": {
+            "A": "1 and 2 only",
+            "B": "1 and 3 only",
+            "C": "2 and 3 only",
+            "D": "1, 2 and 3"
+        },
+        "correct_answer": "C",
+        "explanation": "By P=V/R^2, unchange voltage with increasing resistance will decrease the power dissipated, thus making the heater less hot. By P=VI, either increasing voltage or Current will result in increasing power dissipated, resulting in making the heater hotter."
+    },
+    {
+        "number": 82,
+        "text": "Which of the following statements regarding a positive charge moving in a magnetic field is incorrect?",
+        "options": {
+            "A": "The velocity of the charge is not constant.",
+            "B": "The speed of the charge is constant.",
+            "C": "If the charge is negative, it will experience the magnetic force in an opposite direction.",
+            "D": "The acceleration of the charge must be perpendicular to its direction of motion."
+        },
+        "correct_answer": "C",
+        "explanation": "If the charge is negative, the direction of magnetic force and magnetic field is the same as if it is a positive charge. Only the direction of the direction the charge is heading is opposite."
+    },
+    {
+        "number": 83,
+        "text": "Which of the following statements regarding sound is correct?",
+        "options": {
+            "A": "Increase in frequency will result in increasing loudness",
+            "B": "Increase in amplitude will increase in increasing pitch",
+            "C": "Sound intensity level can be lower than 0dB",
+            "D": "Noise is caused by notes of very high frequency and high amplitude"
+        },
+        "correct_answer": "C",
+        "explanation": "A) is incorrect because increase in frequency will result in increasing pitch. B) is incorrect because increase in amplitude will result in increasing loudness. C) is correct. D) is incorrect because noise is caused by irregular vibrations. It can be in low frequency and low amplitude."
+    },
+    {
+        "number": 84,
+        "text": "Which of the following statements regarding the comparison of sound and light is incorrect? Sound \t\t\t\tlight",
+        "options": {
+            "A": "travel slower\t\t\t\ttravel faster",
+            "B": "cannot travel in vacuum\t\tcan travel in vacuum",
+            "C": "Speed: gas > liquid > solid\t\tspeed: solid > liquid > gas",
+            "D": "generally longer wavelength\tgenerally shorter wavelength\t\t(detectable by human)"
+        },
+        "correct_answer": "C",
+        "explanation": "Sound travels faster in solids than in liquids than in gases. Light travels faster in gases than in liquids than in solids."
+    },
+    {
+        "number": 85,
+        "text": "Which of the following statements regarding the comparison of alpha, beta and gamma radiation is incorrect? Alpha\t\t\tBeta\t\t\tGamma",
+        "options": {
+            "A": "peed:\t\t\tSlowest\t\tMedium\t\tFastest",
+            "B": "onizing power:\t\tHighest\t\tMedium\t\tLowest",
+            "C": "enetrating Power:\tHighest\t\tMedium\t\tLowest",
+            "D": "elative Charge:\t\t+2 \t\t\t-1\t\t\tno charge"
+        },
+        "correct_answer": "C",
+        "explanation": "The penetrating power of Gamma radiation is the highest, then the Beta radiation and the Alpha radiation has the lowest penetrating power."
+    },
+    {
+        "number": 86,
+        "text": "A road is banked at angle \u03b8 for a car to negotiate a 100 m radius curve at 20 m/s without friction. Find \u03b8.",
+        "options": {
+            "A": "1.17\u00b0",
+            "B": "11.5\u00b0",
+            "C": "22.2\u00b0",
+            "D": "39.2\u00b0"
+        },
+        "correct_answer": "C",
+        "explanation": "Rsin\u03b8 = mv2/r \u2026(1)   Rcos\u03b8 = mg \u2026(2) (1)/(2) : tan\u03b8 = v2/rg Sub v=20, r=100, g =9.81 \u03b8 = 22.2\u00b0"
+    },
+    {
+        "number": 87,
+        "text": "A conical pendulum has a 200 g bob on a 1.5 m string, making 30\u00b0 with the vertical. What is the tension? (g = 10 m/s\u00b2)",
+        "options": {
+            "A": "2.27N",
+            "B": "2.31N",
+            "C": "2.35N",
+            "D": "2.39N"
+        },
+        "correct_answer": "B",
+        "explanation": "Consider the vertical component: Tcos\u03b8 = mg Tcos30\u00b0 = (200/1000)(10) T = 2.31N"
+    },
+    {
+        "number": 88,
+        "text": "Which of the following is incorrect?",
+        "options": {
+            "A": "A charged plastic rod can attract an uncharged metal foil",
+            "B": "Plastic objects can be charged by friction",
+            "C": "Plastic objects can\u2019t be charged in induction",
+            "D": "Earthing a charged insulator momentarily can make it become neutral"
+        },
+        "correct_answer": "D",
+        "explanation": "An insulator can\u2019t be earthed. (Only conductor\u2705)"
+    },
+    {
+        "number": 89,
+        "text": "A 15-A fuse can properly protect a rice cooker. Which of the following can be the operating power of the cooker? (Take the main voltage as 220V)",
+        "options": {
+            "A": "1000 W",
+            "B": "2000 W",
+            "C": "3000 W",
+            "D": "4000 W"
+        },
+        "correct_answer": "",
+        "explanation": "As I < 15 A, P = VI < (220)(15) = 3300 W The operating power of the cooker should be slightly smaller than 3300 W. Hence, it is 3000 W."
+    },
+    {
+        "number": 90,
+        "text": "A lamp is rated at \u2018220V, 100W\u2019. What is the cost of electricity for operating it at 110V for 200 hours?",
+        "options": {
+            "A": "$5.5",
+            "B": "$7.7",
+            "C": "$11",
+            "D": "$22"
+        },
+        "correct_answer": "",
+        "explanation": "R = V2/P = 2202/100 =484\u03a9 Power consumed by the lamp = 1102/484 =25W E = Pt = (0.025 kW) \u00d7 (200 h) = 5 kW h Cost of electricity = $1.1 \u00d7 5 = $5.5"
+    },
+    {
+        "number": 91,
+        "text": "A transformer has an efficiency of 90%. If the input power is 1000 W, what is the output power?",
+        "options": {
+            "A": "90W",
+            "B": "900W",
+            "C": "1000W",
+            "D": "1100W"
+        },
+        "correct_answer": "",
+        "explanation": "Output Power=Efficiency\u00d7Input Power = 1000 x 90% =900W"
+    },
+    {
+        "number": 92,
+        "text": "A transformer operates only with:",
+        "options": {
+            "A": "DC current",
+            "B": "AC current",
+            "C": "Both DC and AC current",
+            "D": "Pulsed DC"
+        },
+        "correct_answer": "B",
+        "explanation": "Transformers require a changing magnetic flux (Faraday\u2019s Law), which only AC provides."
+    },
+    {
+        "number": 93,
+        "text": "A transformer has an input voltage of 120 V and an output voltage of 24 V. If the secondary current is 5 A, what is the primary current?",
+        "options": {
+            "A": "1A",
+            "B": "2A",
+            "C": "5A",
+            "D": "25A"
+        },
+        "correct_answer": "A",
+        "explanation": "IP=VsIs/Vp  = 24 x 5 / 120 = 1A"
+    },
+    {
+        "number": 94,
+        "text": "Square loop (0.2 m) \u22a5 to 0.5 T field. Magnetic flux:",
+        "options": {
+            "A": "0 Wb",
+            "B": "0.02Wb",
+            "C": "0.05Wb",
+            "D": "0.2Wb"
+        },
+        "correct_answer": "B",
+        "explanation": "\u03a6 = BA = 0.5 \u00d7 0.04 = 0.02Wb"
+    },
+    {
+        "number": 95,
+        "text": "Which of the following would not lead to power loss of transformer?",
+        "options": {
+            "A": "esistance of wires",
+            "B": "agnetization and demagnetization of the core",
+            "C": "ddy currents in the core",
+            "D": "ecrease of number of turns in primary coil"
+        },
+        "correct_answer": "D",
+        "explanation": "A is incorrect according to the formula of P=V/R B is incorrect because energy will be lost when the core magnetize and demagnetize C is incorrect because energy is dissipated as heat when there is eddy current. D is correct because voltage ratio won't be affected by turn ratio, i.e. V/N = V/N. Thus power is not affected."
+    },
+    {
+        "number": 96,
+        "text": "Which of the following can strengthen an electromagnet?",
+        "options": {
+            "A": "ncrease the number of turn of the coil",
+            "B": "nsert a copper core into the coil",
+            "C": "ncrease the current of the circuit",
+            "D": "ncrease the power of the circuit"
+        },
+        "correct_answer": "D",
+        "explanation": "A is incorrect because only the increase of turns per unit length of the coil can strengthen the magnetic field. B is incorrect C is correct D is incorrect becuase increase in power may not necessarily increase the current."
+    },
+    {
+        "number": 97,
+        "text": "A car travels at constant speed around a ideal banked curve. Which force provides the centripetal force?",
+        "options": {
+            "A": "Friction",
+            "B": "ravity",
+            "C": "orizontal component of the normal force",
+            "D": "ertical component of the normal force"
+        },
+        "correct_answer": "C",
+        "explanation": "On a banked curve, the horizontal component of the normal force provides centripetal force. A is Incorrect: Friction is unnecessary in an ideally banked curve. D is incorrect. The vertical component balances gravity, not providing centripetal force. C is correct. It balances the horizontal centripetal net force."
+    },
+    {
+        "number": 98,
+        "text": "A copper wire has a length L, cross-sectional area A, and resistivity \u03c1. If its length is doubled and area halved, its new resistance is:",
+        "options": {
+            "A": "L/A",
+            "B": "\u03c1L/A",
+            "C": "\u03c1L/A",
+            "D": "\u03c1L/A"
+        },
+        "correct_answer": "C",
+        "explanation": "C is correct. R=\u03c1L/A. New R\u2019=\u03c12L/0.5A=4\u03c1L/A"
+    },
+    {
+        "number": 99,
+        "text": "A magnet is pushed into a coil of wire. To oppose this motion, the induced current creates a magnetic field that:",
+        "options": {
+            "A": "ttracts the magnet",
+            "B": "epels the magnet",
+            "C": "trenthens the magnetic field",
+            "D": "oes nothing"
+        },
+        "correct_answer": "B",
+        "explanation": "Lenz\u2019s Law: The induced current creates a field against the motion. Thus, B is correct A is incorrect because it aids the motion"
+    },
+    {
+        "number": 100,
+        "text": "Which graph represents a material obeying Ohm\u2019s Law?",
+        "options": {
+            "A": "urrent vs. Voltage is a curve",
+            "B": "urrent vs. Voltage is a straight line",
+            "C": "esistance vs. Temperature is constant",
+            "D": "oltage vs. Resistance is linear"
+        },
+        "correct_answer": "",
+        "explanation": "Ohm\u2019s Law (V=IR)requires a linear I-V graph. A Incorrect: Non-ohmic materials (e.g., diodes) show curves."
+    },
+    {
+        "number": 101,
+        "text": "A 1 kg ball is swung in a 2 m radius horizontal circle at 4 m/s. What is the centripetal force?",
+        "options": {
+            "A": "N",
+            "B": "N",
+            "C": "N",
+            "D": "6N"
+        },
+        "correct_answer": "C",
+        "explanation": "Fc=mv^2/r=1\u00d74(4)=8N"
+    },
+    {
+        "number": 102,
+        "text": "A car rounds a curve at constant speed. Which statement is true?",
+        "options": {
+            "A": "Velocity is constant",
+            "B": "Acceleration is zero",
+            "C": "Acceleration is toward the center",
+            "D": "Net force is tangential"
+        },
+        "correct_answer": "C",
+        "explanation": "Centripetal acceleration points toward the center. A Incorrect: Velocity changes direction (not constant)."
+    },
+    {
+        "number": 103,
+        "text": "EMF is induced in a coil when:",
+        "options": {
+            "A": "A magnet is stationary inside it",
+            "B": "The coil moves parallel to a magnetic field",
+            "C": "The magnetic flux changes",
+            "D": "Current is constant"
+        },
+        "correct_answer": "C",
+        "explanation": "EMF requires changing flux. B Incorrect: No flux change if motion is parallel."
+    },
+    {
+        "number": 104,
         "text": "Car A is in front of Car B 100m. Car A is in constant velocity of 7ms-1 while Car B is accelerating constantly at 9ms-2 from rest. In which distance from starting point of Car B will they meet?",
         "options": {
             "A": "38.9m",
@@ -564,7 +1248,7 @@
         "explanation": "s=ut+1/2at2 7t+100= 9/2t2 s=7t+100"
     },
     {
-        "number": 48,
+        "number": 105,
         "text": "Refer to fig 1. What is the friction acting on A by B, and B by A respectively?",
         "options": {
             "A": ";0",
@@ -576,7 +1260,7 @@
         "explanation": "The only force acting on block A is friction. F=ma=2x3=6. As the opposite frictional forces are action reaction pairs, the friction on B by A is also 6."
     },
     {
-        "number": 49,
+        "number": 106,
         "text": "Trolley A accelerates to right and crashes on Trolly B which has a constant velocity to right. They then stick together and move to the right with the same speed. What kind of collision is it?",
         "options": {
             "A": "ompletely inelastic collision",
@@ -588,7 +1272,7 @@
         "explanation": "they have the same direction ."
     },
     {
-        "number": 50,
+        "number": 107,
         "text": "which is/are the equation(s) of the total kinetic energy of a gas? 1)1/2Nmc2 2) 3/2 PV 3) 3/2 nRT",
         "options": {
             "A": ",3",
@@ -600,7 +1284,7 @@
         "explanation": "total kinetic energy =3/2nRT= 1/2Nmc2, and PV=nRT so 2 is also correct"
     },
     {
-        "number": 51,
+        "number": 108,
         "text": "The pressure and temperature of a gas is 110 kpa and 2C respectively. When it is heated, the temperature becomes 7C while the pressure do not change. What does the volume change?",
         "options": {
             "A": "ncrease",
@@ -612,7 +1296,7 @@
         "explanation": "PV/T= constant. When T increases, V increases."
     },
     {
-        "number": 52,
+        "number": 109,
         "text": "when pressure of a gas decreases, which of the following is incorrect? 1.Total kinetic energy conserved 2.R increases constantly 3.temperature decreases",
         "options": {
             "A": ",2",
@@ -624,7 +1308,7 @@
         "explanation": "KE increases, while R is a constant. Temperature will decrease."
     },
     {
-        "number": 53,
+        "number": 110,
         "text": "There is a hot air balloon. It has a fixed volume of 500m3. The temperature before and after it rises are 25C and 60C respectively. The pressure before and after it rises are 50kPa and 46kPa respectively. Find the number of molecules before and after it rises.",
         "options": {
             "A": "075;0 moles",
@@ -636,7 +1320,115 @@
         "explanation": "PV= nRT (500)(50000)=n8.31(298) (500)(46000)=n(8.31)(333)"
     },
     {
-        "number": 54,
+        "number": 111,
+        "text": "A 2 m long wire carrying 5 A current is placed at 30\u00b0 to a 0.5 T magnetic field. What is the magnitude of the force on the wire?",
+        "options": {
+            "A": "0 N",
+            "B": "2.5 N",
+            "C": "5 N",
+            "D": "10 N"
+        },
+        "correct_answer": "B",
+        "explanation": "The magnetic force on a current-carrying wire is: F=ILBsin\u2061\u03b8 F=(5)(2)(0.5)(sin\u206130\u00b0)=5\u00d70.5=2.5\u2009N"
+    },
+    {
+        "number": 112,
+        "text": "What is the purpose of the earth wire in a three-pin plug?",
+        "options": {
+            "A": "To carry the main current to the appliance",
+            "B": "To provide a low-resistance path for fault current, preventing electric shock",
+            "C": "To increase the voltage supply",
+            "D": "To reduce power consumption"
+        },
+        "correct_answer": "B",
+        "explanation": "The earth wire connects the metal casing of an appliance to the ground. If a fault occurs, current flows safely to the ground instead of through a person."
+    },
+    {
+        "number": 113,
+        "text": "A current-carrying wire is placed between the poles of a horseshoe magnet. If the current flows upward, in which direction will the wire experience a force?",
+        "options": {
+            "A": "Left",
+            "B": "Right",
+            "C": "Toward the north pole",
+            "D": "Out of the page"
+        },
+        "correct_answer": "D",
+        "explanation": "Use Fleming\u2019s Left-Hand Rule: Thumb = Force (out of the page). First finger = Magnetic field (N to S). Second finger = Current (upward)."
+    },
+    {
+        "number": 114,
+        "text": "A proton moves at 5 \u00d7 10\u2076 m s-1 perpendicular to a 0.2 T magnetic field. What is the magnitude of the force acting on the proton?",
+        "options": {
+            "A": "1.6 \u00d7 10\u207b\u00b9\u00b3 N",
+            "B": "3.2 \u00d7 10\u207b\u00b9\u00b3 N",
+            "C": "8.0 \u00d7 10\u207b\u00b9\u00b3 N",
+            "D": "0 N"
+        },
+        "correct_answer": "A",
+        "explanation": "Magnetic force on a moving charge: F=BQvsin\u2061\u03b8 F=(0.2)(1.6\u00d710\u221219)(5\u00d7106)(sin\u206190\u00b0)=1.6\u00d710\u221213\u2009N"
+    },
+    {
+        "number": 115,
+        "text": "A coil of wire is moved into a magnetic field. Which action will not induce an e.m.f?",
+        "options": {
+            "A": "Moving the coil parallel to the field lines",
+            "B": "Moving the coil perpendicular to the field lines",
+            "C": "Rotating the coil in the field",
+            "D": "Holding the coil stationary in a changing magnetic field"
+        },
+        "correct_answer": "A",
+        "explanation": "e.m.f is induced only when there is a change in magnetic flux. Moving parallel to field lines does not cut flux lines, so no e.m.f is generated."
+    },
+    {
+        "number": 116,
+        "text": "A transformer has 100 turns in the primary coil and 400 turns in the secondary coil. If the primary voltage is 50V, what is the secondary voltage?",
+        "options": {
+            "A": "12.5 V",
+            "B": "100 V",
+            "C": "200 V",
+            "D": "400 V"
+        },
+        "correct_answer": "C",
+        "explanation": "Transformer equation: Vs/Vp=Ns/Np\u200b Vs=Vp\u00d7(Ns/Np)=50\u00d7(400/100)=200\u2009V"
+    },
+    {
+        "number": 117,
+        "text": "Why do power stations transmit electricity at high voltages (e.g. 400 kV) over long distances?",
+        "options": {
+            "A": "To increase current and reduce energy loss",
+            "B": "To decrease current and reduce energy loss",
+            "C": "To make transformers unnecessary",
+            "D": "To increase resistance in power lines"
+        },
+        "correct_answer": "B",
+        "explanation": "Power loss in transmission lines is given by Ploss=I2R High voltage reduces current (I) for the same power (P=VI), minimizing energy loss."
+    },
+    {
+        "number": 118,
+        "text": "A magnet is pushed into a coil. What happens to the induced current if the magnet is pushed faster?",
+        "options": {
+            "A": "Current decreases",
+            "B": "Current reverses direction",
+            "C": "Current increases",
+            "D": "Current stays the same"
+        },
+        "correct_answer": "C",
+        "explanation": "Faster movement \u2192 greater rate of flux change \u2192 higher induced e.m.f/current (Faraday\u2019s Law)."
+    },
+    {
+        "number": 119,
+        "text": "A transformer is 80% efficient. If the input power is 500W, what is the output power?",
+        "options": {
+            "A": "400W",
+            "B": "500W",
+            "C": "600W",
+            "D": "625W"
+        },
+        "correct_answer": "A",
+        "explanation": "Efficiency = (Output/Input) \u00d7 100 \u2192 Output = 0.8 \u00d7 500W = 400W."
+    },
+    {
+        "number": 120,
         "text": "It is known that the mass of Mars is about 1/10 of that of the Earth while its radius is about 1/2 of the Earth\u2019s radius. In terms of gravitational acceleration g on Earth\u2019s surface, the approximate gravitational acceleration on the surface of Mars is",
         "options": {
             "A": "0.2g",
@@ -648,7 +1440,7 @@
         "explanation": ""
     },
     {
-        "number": 55,
+        "number": 121,
         "text": "An object is projected vertically upwards. F denotes the magnitude of the net force acting on the object and W denotes the magnitude of the weight of the object. If air resistance is not negligible, which of the following descriptions are correct ? (1) When the object is moving up, F is greater than W. (2) When the object is at the highest point, F is equal to W. (3) When the object is moving down, F is smaller than W.",
         "options": {
             "A": "(1) and (2) only",
@@ -660,7 +1452,7 @@
         "explanation": ""
     },
     {
-        "number": 56,
+        "number": 122,
         "text": "An object of mass 0.5 kg is raised vertically from the ground by a motor. The object is raised 2.5 m in 1.5 s with uniform speed. Estimate the output power of the motor.",
         "options": {
             "A": "5.5 W",
@@ -672,7 +1464,7 @@
         "explanation": ""
     },
     {
-        "number": 57,
+        "number": 123,
         "text": "An astronaut inside a spacecraft moving in a circular orbit around the Earth is apparently weightless because",
         "options": {
             "A": "the astronaut is too far from the Earth to feel the Earth\u2019s gravitational force.",
@@ -684,7 +1476,127 @@
         "explanation": ""
     },
     {
-        "number": 58,
+        "number": 124,
+        "text": "In which of the following cases will an eddy current be produced?",
+        "options": {
+            "A": "A metal cube is at rest in a constant magnetic field.",
+            "B": "A metal cube is at rest in a varying magnetic field",
+            "C": "A plastic cube is moving across a magnetic field perpendicularly",
+            "D": "A plastic bowl is at rest in a varying magnetic field"
+        },
+        "correct_answer": "B",
+        "explanation": "When a piece of conducting material moves in a magnetic field, or when it is placed in a changing magnetic field, an e.m.f will be induced, then eddy current will be produced."
+    },
+    {
+        "number": 125,
+        "text": "Which of the following cannot increase the induced current in an a.c. generator?",
+        "options": {
+            "A": "Use a stronger magnet",
+            "B": "Increase the number of turns of coils",
+            "C": "Increase the rotating speed of the coil",
+            "D": "Use a thinner wire to make the coil"
+        },
+        "correct_answer": "D",
+        "explanation": "The magnitude of the induced e.m.f is increased when the magnet or the coil is moved faster or the number of turns of coil is increased or the area of the coil is increased or a stronger magnet is used."
+    },
+    {
+        "number": 126,
+        "text": "An a.c. power supply is connected to an ideal transformer with turns ratio of 1 : 10. A load is connected to the secondary coil of the transformer. If the peak value of the a.c. in the primary coil is 2 A, what is the peak value of the a.c. in the secondary coil?",
+        "options": {
+            "A": "0.02 A",
+            "B": "0.2 A",
+            "C": "1 A",
+            "D": "20 A"
+        },
+        "correct_answer": "D",
+        "explanation": "Np/Ns = 1/10  Is = 10/1*2 = 20 A"
+    },
+    {
+        "number": 127,
+        "text": "Which of the following statements must be correct? 1) There is no flux leakage if the transformer is ideal 2) There is flux leakage if the transformer is not ideal 3) When there is no flux leakage, the current ratio equals the voltage ratio.",
+        "options": {
+            "A": "(1) and (2) only",
+            "B": "(1) and (3) only",
+            "C": "(2) and (3) only",
+            "D": "(1), (2) and (3)"
+        },
+        "correct_answer": "B",
+        "explanation": "No flux leakage does not mean it is an ideal transformer and current ratio equals the voltage ratio only when it is an ideal transformer."
+    },
+    {
+        "number": 128,
+        "text": "1) When the coil starts getting into the magnetic field, the magnetic flux through the coil is increasing 2) When the coil is completely inside the magnetic field, the magnetic flux through the coil is increasing 3) When the coil starts leaving the magnetic field, the magnetic flux through the coil is decreasing.",
+        "options": {
+            "A": "(1) and (2) only",
+            "B": "(1) and (3) only",
+            "C": "(2) and (3) only",
+            "D": "(1), (2) and (3)"
+        },
+        "correct_answer": "B",
+        "explanation": "When an object is fully inside a magnetic field, the magnetic flux is constant."
+    },
+    {
+        "number": 129,
+        "text": "How does the gravitational force between two masses change if the distance between them is tripled?",
+        "options": {
+            "A": "It becomes three times stronger",
+            "B": "It becomes nine times weaker",
+            "C": "It remains the same",
+            "D": "It becomes one-third as strong"
+        },
+        "correct_answer": "B",
+        "explanation": "F = Gmm/r^2"
+    },
+    {
+        "number": 130,
+        "text": "Which of the following statements about half-life is correct?",
+        "options": {
+            "A": "Half-life is the time it takes for a substance to decay to zero.",
+            "B": "Half-life is constant for all isotopes regardless of environmental conditions.",
+            "C": "Half-life can change if the temperature changes.",
+            "D": "The half-life of a substance increases as it decays."
+        },
+        "correct_answer": "B",
+        "explanation": "Half life does not change for radioactive isotopes."
+    },
+    {
+        "number": 131,
+        "text": "1) The source does not emit a radiation 2) The source does not emit B radiation 3) The source does not emit Y radiation",
+        "options": {
+            "A": "(1) only",
+            "B": "(1) and (2) only",
+            "C": "(2) and (3) only",
+            "D": "None of the above"
+        },
+        "correct_answer": "D",
+        "explanation": "a radiation range is several cm, so we are not sure if there is a radiation. The source emits B radiation since reading significantly drops after aluminium is placed. We are not sure if the source emits Y since no lead is placed."
+    },
+    {
+        "number": 132,
+        "text": "In a circuit with a 15 \u03a9 resistor and a 5 \u03a9 resistor in parallel, what is the total voltage if the power dissipated by the circuit is 90 W?",
+        "options": {
+            "A": "5 V",
+            "B": "18 V",
+            "C": "43 V",
+            "D": "60 V"
+        },
+        "correct_answer": "B",
+        "explanation": "V = P^2 / R"
+    },
+    {
+        "number": 133,
+        "text": "In a decay series, P undergoes a decay to form Q, Q undergoes B decay to form R, S undergoes a decay to form S. In another decay series, X undergoes B decay to form Y, Y undergoes a decay to form Z. P and X are two isotopes. S and Z have the same mass number. Arrange Q, R, S, X and Y in ascending order according to their atomic numbers.",
+        "options": {
+            "A": "X, Y, R, Q, S",
+            "B": "S, X, Q, R, Y",
+            "C": "S, Q, R, X, Y",
+            "D": "X, Y, S, Q, R"
+        },
+        "correct_answer": "C",
+        "explanation": "S = x, Q = x+1, R = x+2, X = x+3, Y = x+4"
+    },
+    {
+        "number": 134,
         "text": "Match each observation (1\u20133) to the correct gas law (A\u2013C): 1.When cooled, the gas volume decreases at constant pressure. 2.When heated, the gas pressure increases at constant volume. 3.When compressed, the gas pressure increases at constant temperature.",
         "options": {
             "A": "1:a  2:b  3:c",
@@ -696,7 +1608,7 @@
         "explanation": "1. Volume decreases when cooled (constant P) 2.Pressure increases when heated (constant V) 3.Pressure increases when compressed (constant T)"
     },
     {
-        "number": 59,
+        "number": 135,
         "text": "Which one is correct when a fixed mass of gas is compressed and also heated at the same time? 1.Average spacing between the gas molecules 2.Average speed of the gas  molecules",
         "options": {
             "A": "1.remains unchanged 2.increases",
@@ -708,7 +1620,7 @@
         "explanation": "it is because the gas molecules will go faster when the temperature is higher"
     },
     {
-        "number": 60,
+        "number": 136,
         "text": "According to the kinetic theory of gases, which of the following statements is incorrect for an ideal gas?",
         "options": {
             "A": "The pressure exerted by the gas arises due to collisions of molecules with the container walls",
@@ -720,7 +1632,7 @@
         "explanation": "It is because ideal gas molecules exert no intermolecular forces"
     },
     {
-        "number": 61,
+        "number": 137,
         "text": "An ideal gas is heated at constant volume. Which of the following quantities must increase?",
         "options": {
             "A": "Root-mean-square (r.m.s.) speed of molecules",
@@ -732,7 +1644,7 @@
         "explanation": "The r.m.s. speed of molecules depends on temperature which increases when heated"
     },
     {
-        "number": 62,
+        "number": 138,
         "text": "When you heat an ideal gas, what happens to its molecules?",
         "options": {
             "A": "Move faster",
@@ -744,7 +1656,7 @@
         "explanation": "Gas molecules move faster when the temperature is higher"
     },
     {
-        "number": 63,
+        "number": 139,
         "text": "Two ideal gas samples in identical containers are at the same temperature but have different molecular masses. Which statement is correct?",
         "options": {
             "A": "Both samples exert equal pressure on their containers",
@@ -756,7 +1668,7 @@
         "explanation": "Lighter molecules move faster so there will be more frequent wall collisions"
     },
     {
-        "number": 64,
+        "number": 140,
         "text": "Which of the following items can reduce the impact force during a car crash?",
         "options": {
             "A": "The Bumper",
@@ -768,7 +1680,7 @@
         "explanation": "All of the items above can prolong the impact time of our body with the car."
     },
     {
-        "number": 65,
+        "number": 141,
         "text": "Which of the following is not a vector quantity?",
         "options": {
             "A": "Acceleration",
@@ -780,7 +1692,7 @@
         "explanation": "Only distance doesn\u2019t need to account for its direction."
     },
     {
-        "number": 66,
+        "number": 142,
         "text": "Which of the following statements about an object momentarily at rest is/are incorrect?",
         "options": {
             "A": "The speed of the object is zero",
@@ -792,7 +1704,7 @@
         "explanation": "When an object is momentarily at rest, gravity is still acting on the object."
     },
     {
-        "number": 67,
+        "number": 143,
         "text": "According to Newton\u2019s Second Law of Motion, what is relationship between force, mass and acceleration?",
         "options": {
             "A": "Force equals mass divided by acceleration",
@@ -804,7 +1716,7 @@
         "explanation": "F=ma"
     },
     {
-        "number": 68,
+        "number": 144,
         "text": "Which of the following best represents Newton\u2019s Third Law of Motion?",
         "options": {
             "A": "A ball rolling down the hill due to gravity",
@@ -816,7 +1728,7 @@
         "explanation": "An action has a reaction force"
     },
     {
-        "number": 69,
+        "number": 145,
         "text": "What is the formula for calculating speed?",
         "options": {
             "A": "Speed = Distance \u00d7 Time",
@@ -828,7 +1740,7 @@
         "explanation": "Speed tells us how fast something is moving, calculated by dividing the distance traveled by the time taken."
     },
     {
-        "number": 70,
+        "number": 146,
         "text": "If a car travels 100 meters in 5 seconds, what is its speed?",
         "options": {
             "A": "10 m/s",
@@ -840,7 +1752,7 @@
         "explanation": "Speed is calculated by dividing 100 meters by 5 seconds, resulting in 20 meters per second."
     },
     {
-        "number": 71,
+        "number": 147,
         "text": "What is the difference between speed and velocity?",
         "options": {
             "A": "Speed is faster than velocity.",
@@ -852,7 +1764,7 @@
         "explanation": "Speed has magnitude only, while velocity includes both magnitude and direction."
     },
     {
-        "number": 72,
+        "number": 148,
         "text": "What is Newton's first law of motion?",
         "options": {
             "A": "Force equals mass times acceleration.",
@@ -864,7 +1776,7 @@
         "explanation": "This law states that objects will not change their state of motion unless a force acts on them."
     },
     {
-        "number": 73,
+        "number": 149,
         "text": "If a ball is thrown upwards, what happens to its velocity as it rises?",
         "options": {
             "A": "It increases.",
@@ -876,7 +1788,7 @@
         "explanation": "As the ball rises, gravity slows it down until it stops at the highest point."
     },
     {
-        "number": 74,
+        "number": 150,
         "text": "What is the unit of force in the International System of Units ?",
         "options": {
             "A": "Joule",
@@ -888,7 +1800,7 @@
         "explanation": "The Newton (N) is the standard unit for measuring force."
     },
     {
-        "number": 75,
+        "number": 151,
         "text": "What is the freezing point of water in degrees Celsius?",
         "options": {
             "A": "-10\u00b0C",
@@ -900,7 +1812,7 @@
         "explanation": "Water freezes at 0 degrees Celsius, the temperature at which it changes from liquid to solid."
     },
     {
-        "number": 76,
+        "number": 152,
         "text": "What instrument is used to measure temperature?",
         "options": {
             "A": "Barometer",
@@ -912,7 +1824,7 @@
         "explanation": "A thermometer is designed to measure temperature, using liquid or digital sensors."
     },
     {
-        "number": 77,
+        "number": 153,
         "text": "At what temperature does water boil in degrees Celsius?",
         "options": {
             "A": "90\u00b0C",
@@ -924,7 +1836,7 @@
         "explanation": "Water boils at 100 degrees Celsius, changing from liquid to gas ."
     },
     {
-        "number": 78,
+        "number": 154,
         "text": "What happens to the molecules of a substance as its temperature increases?",
         "options": {
             "A": "They move slower.",
@@ -936,7 +1848,7 @@
         "explanation": "As temperature rises, molecules gain energy, moving faster and spreading apart."
     },
     {
-        "number": 79,
+        "number": 155,
         "text": "According to Newton's First Law of Motion, an object at rest will stay at rest and an object in motion will stay in motion with the same velocity unless acted upon by:",
         "options": {
             "A": "gravity",
@@ -948,7 +1860,7 @@
         "explanation": "Object's state of motion will remain constant unless a net or unbalanced force acts upon it."
     },
     {
-        "number": 80,
+        "number": 156,
         "text": "Which of the following is a vector?",
         "options": {
             "A": "speed",
@@ -960,7 +1872,7 @@
         "explanation": "Velocity has direction."
     },
     {
-        "number": 81,
+        "number": 157,
         "text": "Two objects have masses m1\u200b and m2\u200b, where m1\u200b>m2\u200b. If the same force is applied to both objects, which object will experience a greater acceleration?",
         "options": {
             "A": "The object with mass m1\u200b",
@@ -972,7 +1884,7 @@
         "explanation": "The object with the smaller mass (m2\u200b) will experience a greater acceleration for the same applied force."
     },
     {
-        "number": 82,
+        "number": 158,
         "text": "The force that opposes the motion of an object moving through a fluid (like air or water) is called:",
         "options": {
             "A": "gravity",
@@ -984,7 +1896,7 @@
         "explanation": "Drag force is a type of friction that acts on objects moving through fluids."
     },
     {
-        "number": 83,
+        "number": 159,
         "text": "Which of the following scenarios demonstrates Newton's Third Law of Motion?",
         "options": {
             "A": "A car accelerates when the driver presses the gas pedal",
@@ -996,7 +1908,7 @@
         "explanation": "Action reaction pair."
     },
     {
-        "number": 84,
+        "number": 160,
         "text": "If the velocity of an object is doubled, what happens to the kinetic energy?",
         "options": {
             "A": "It reduces by half",
@@ -1008,7 +1920,7 @@
         "explanation": "KE=0.5mv2 4KE=0.5m(2v)2"
     },
     {
-        "number": 85,
+        "number": 161,
         "text": "Which of the following statement(s) must be correct? 1) A ball rolled on a smooth surface will not stop and will keep rolling forever. 2) Two objects with the same mass fall with the same acceleration 3) A gun recoils when a bullet is fired",
         "options": {
             "A": "(3) only",
@@ -1020,7 +1932,7 @@
         "explanation": "is incorrect because there is air resistance and the ball will eventually stop. is incorrect because two objects may have different surface areas. is correct because of Newton\u2019s third law."
     },
     {
-        "number": 86,
+        "number": 162,
         "text": "Peter uses his hand to throw a ball vertically upwards with an initial speed of 6ms-1. What is the distance between the highest point the ball reaches and Peter\u2019s hand?",
         "options": {
             "A": "1.22m",
@@ -1032,7 +1944,7 @@
         "explanation": "KE=PE 0.5(m)(6)2=m(9.81)(h) h=1.83m"
     },
     {
-        "number": 87,
+        "number": 163,
         "text": "Ball X is of the same size as ball Y but is much heavier. They are released from rest at the same time from a certain height. Which of the following statements about the balls is/are correct? (1) X reaches the ground before Y. (2) The velocity of each ball increases uniformly. (3) Their accelerations are zero when they are just released.",
         "options": {
             "A": "(1)only",
@@ -1044,7 +1956,7 @@
         "explanation": "Y should reaches ground before x, acceleration =9.81"
     },
     {
-        "number": 88,
+        "number": 164,
         "text": "Which of the following statements about force is incorrect?",
         "options": {
             "A": "orce is a vector quantity",
@@ -1056,7 +1968,7 @@
         "explanation": "There\u2019s non contact force"
     },
     {
-        "number": 89,
+        "number": 165,
         "text": "Which of the following statements is/are correct? (1) When moving at the same speed, a bowling ball is harder to stop than a ping-pong ball. (2) Objects always have the same inertia when they are at rest. (3) When a bus accelerates forwards suddenly, passengers inside lean backwards because they are acted on by friction.",
         "options": {
             "A": "(1) only",
@@ -1068,7 +1980,7 @@
         "explanation": ""
     },
     {
-        "number": 90,
+        "number": 166,
         "text": "Assume that the ball slows down uniformly. If the velocity of the ball after being kicked is u m s what is the net force acting on the ball when it rolls. A boy kicks a ball of mass 1.2 kg on level grassland. The ball rolls for 20 m before it stops.",
         "options": {
             "A": "0.01 u2 N",
@@ -1080,7 +1992,7 @@
         "explanation": "by v2=u2 + 2as, a= u/40. By F=ma, F= 1.2u/40=0.03"
     },
     {
-        "number": 91,
+        "number": 167,
         "text": "Two objects fall freely from the same position in a vacuum. Which of the following statements must be correct? (1) The objects have the same acceleration. (2) The net forces acting on the objects are always the same. (3) The net force acting on each object keeps decreasing.",
         "options": {
             "A": "2) only",
@@ -1092,7 +2004,7 @@
         "explanation": "By F=ma, the net force will be affected by the mass of the object;no air resistance in the vacuum"
     },
     {
-        "number": 92,
+        "number": 168,
         "text": "Which of the following is/are the direct implication(s) of inertia? (1) A boy standing on a bus is 'pulled' backwards when the bus starts moving. (2) If you push another person in front of you on a smooth surface, you will move backwards. (3) The balls of different masses reach the ground at the same time in Galileo's experiment (carried out on the tower of Pisa).",
         "options": {
             "A": "1) only",
@@ -1104,7 +2016,7 @@
         "explanation": ""
     },
     {
-        "number": 93,
+        "number": 169,
         "text": "Which of the following statements is/are correct? (1) Absolute zero is equal to 0 \u00b0C. (2) The difference between the steam point and the ice point is 100 K. (3) The steam point is equal to 373 K.",
         "options": {
             "A": "1) only",
@@ -1116,7 +2028,7 @@
         "explanation": "Absolute zero =-273.15 degree Celsius,which is 0k; steam point and ice point is having 100 degree Celsius as the difference between them"
     },
     {
-        "number": 94,
+        "number": 170,
         "text": "Which of the following is not an assumption made about an ideal gas in the kinetic theory?",
         "options": {
             "A": "olecules are in random motion.",
@@ -1128,7 +2040,7 @@
         "explanation": ""
     },
     {
-        "number": 95,
+        "number": 171,
         "text": "An object falls from point P to Q. Air resistance increase with the speed of the object (1) The net force acting on the object throughout the motion is constant (2) The magnitude of acceleration decreased to zero when the object reaches Q (3) The KE gained by the object from P to Q is equal to the loss of the GPE",
         "options": {
             "A": "(1)",
@@ -1140,7 +2052,283 @@
         "explanation": ""
     },
     {
-        "number": 96,
+        "number": 172,
+        "text": "Which of the following statements about \u03b1 radiation is incorrect?",
+        "options": {
+            "A": "It has a strong ionizing power.",
+            "B": "It is deflected towards the positive side in an electric field.",
+            "C": "Its cloud chamber tracks are thick and straight.",
+            "D": "Its penetrating power is lower than \u03b2 radiation."
+        },
+        "correct_answer": "B",
+        "explanation": "\u03b1 radiation is deflected towards the negative side in an electric field."
+    },
+    {
+        "number": 173,
+        "text": "Which of the following is not a natural source of background radiation?",
+        "options": {
+            "A": "Soil",
+            "B": "Food",
+            "C": "A dead animal",
+            "D": "Nuclear power plants"
+        },
+        "correct_answer": "D",
+        "explanation": "Nuclear power plants are an artificial source of background radiation."
+    },
+    {
+        "number": 174,
+        "text": "How many \u03b1 particles and \u03b2 particles are emitted in the following decay series? 23592X\u219222789Y",
+        "options": {
+            "A": "\u03b1 particles: 4, \u03b2 particles: 5",
+            "B": "\u03b1 particles: 4, \u03b2 particles: 7",
+            "C": "\u03b1 particles: 6, \u03b2 particles: 5",
+            "D": "\u03b1 particles: 6, \u03b2 particles: 7"
+        },
+        "correct_answer": "A",
+        "explanation": "\u03b1 particles: (235-227)/2 = 4 \u03b2 particles: 92 = 89+4\u00d72-y y = 5"
+    },
+    {
+        "number": 175,
+        "text": "The decay constant of a radionuclide is 1.25\u00d710-6s-1. The radionuclide will decay to form a stable product. What is the half-life of the radionuclide?",
+        "options": {
+            "A": "6.25\u00d7105s",
+            "B": "5.55\u00d7105s",
+            "C": "4.65\u00d7105s",
+            "D": "4.25\u00d7105s"
+        },
+        "correct_answer": "B",
+        "explanation": "t\u00bd = (ln 2)/k = (ln 2)/(1.25\u00d710-6) = 5.55\u00d7105s"
+    },
+    {
+        "number": 176,
+        "text": "Which of the following protection against radiation is incorrect?",
+        "options": {
+            "A": "Stay away from radioactive sources.",
+            "B": "Minimize exposure time.",
+            "C": "Use barriers to shield radiation.",
+            "D": "Use gloves while touching radioactive sources."
+        },
+        "correct_answer": "D",
+        "explanation": "Closely touching radioactive sources is a wrong action as the radiation will damage our body."
+    },
+    {
+        "number": 177,
+        "text": "Which of the following causes the highest radiation dose for an average person?",
+        "options": {
+            "A": "Inhaled gases",
+            "B": "Medical use of radiation",
+            "C": "cosmic rays from outer space",
+            "D": "Rocks and soil"
+        },
+        "correct_answer": "A",
+        "explanation": "The percentage of the radiation dose of inhaled gases (radon gas) is 42%, which is the highest among the answers."
+    },
+    {
+        "number": 178,
+        "text": "Which of the following has the strongest ionizing power?",
+        "options": {
+            "A": "Infra-red radiation",
+            "B": "Microwaves",
+            "C": "Radio waves",
+            "D": "\u03b3 radiation"
+        },
+        "correct_answer": "D",
+        "explanation": "Only \u03b3 radiation is an ionizing radiation among the answers, so it has the strongest ionizing power."
+    },
+    {
+        "number": 179,
+        "text": "Jason travels at constant speed around a circular track. If the radius of the track is doubled, what happens to the centripetal force acting on Jason?",
+        "options": {
+            "A": "Doubles",
+            "B": "Halves",
+            "C": "Quadruples",
+            "D": "Remains the same"
+        },
+        "correct_answer": "B",
+        "explanation": "If radius doubles and speed  is constant, Force is halved."
+    },
+    {
+        "number": 180,
+        "text": "Him and Serena are separated by distance d. The gravitational force between them is F. If the distance is tripled, the gravitational force between them becomes:",
+        "options": {
+            "A": "9F",
+            "B": "3F",
+            "C": "1/9F",
+            "D": "1/3F"
+        },
+        "correct_answer": "",
+        "explanation": "Newton\u2019s third law, 1/3^2 = 1\\9"
+    },
+    {
+        "number": 181,
+        "text": "Hung Yeah with magnet inside his head is pushed into a coil. What is the direction of the induced current observed from the Hung Yeah\u2019s side?",
+        "options": {
+            "A": "Clockwise",
+            "B": "Anti-clockwise",
+            "C": "No current",
+            "D": "Alternating"
+        },
+        "correct_answer": "",
+        "explanation": "Lenz\u2019s law: The induced current opposes the magnet\u2019s motion. As the North pole enters, the coil\u2019s near end becomes North, requiring clockwise current (right-hand rule)."
+    },
+    {
+        "number": 182,
+        "text": "Eric moves in a circle with angular velocity w. If the radius is halved but angular velocity remains the same, the linear speed v will:",
+        "options": {
+            "A": "Double",
+            "B": "Halve",
+            "C": "Same",
+            "D": "Quadruple"
+        },
+        "correct_answer": "",
+        "explanation": "v=rw, keeping w constant halves r"
+    },
+    {
+        "number": 183,
+        "text": "Him is squeezed into a ball which has twice Earth\u2019s mass and half its radius. What is the gravitational field strength on Him compared to Earth?",
+        "options": {
+            "A": "8 x Earth",
+            "B": "4 x Earth",
+            "C": "2 x Earth",
+            "D": "Same as Earth"
+        },
+        "correct_answer": "A",
+        "explanation": "g=GM/r^2"
+    },
+    {
+        "number": 184,
+        "text": "Mr Hung carrying current I is placed perpendicular to a magnetic field. The force on the wire depends on:",
+        "options": {
+            "A": "Current only",
+            "B": "Magnetic field strength only",
+            "C": "Both current and magnetic field",
+            "D": "None of the above"
+        },
+        "correct_answer": "",
+        "explanation": "Left hand rule, F=BIl, B and I are involved"
+    },
+    {
+        "number": 185,
+        "text": "Which factor does NOT affect the centripetal force of an object in circular motion?",
+        "options": {
+            "A": "Mass",
+            "B": "Speed",
+            "C": "Radius",
+            "D": "Gravitational field strength"
+        },
+        "correct_answer": "",
+        "explanation": "Refer to the formula"
+    },
+    {
+        "number": 186,
+        "text": "Carmel orbits Earth with orbital radius r. If the radius increases to 4r, its orbital period becomes:",
+        "options": {
+            "A": "2 x original",
+            "B": "4 x original",
+            "C": "8 x original",
+            "D": "64 x original"
+        },
+        "correct_answer": "",
+        "explanation": "refer to the formula"
+    },
+    {
+        "number": 187,
+        "text": "What is the magnitude of a point charge whose E-field at a distance of 25 cm is 3.4 N/C?",
+        "options": {
+            "A": ".4x10-11C",
+            "B": ".4x10-11C",
+            "C": "",
+            "D": "ot enough information"
+        },
+        "correct_answer": "",
+        "explanation": "E= kq/r2 3.4 = (9x109)q/(0.25)2 q = 2.4x10-11C"
+    },
+    {
+        "number": 188,
+        "text": "Four equal charges are located on the corners of a square .  What is the magnitude of the E-field at the center position of the square?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "ot enough information"
+        },
+        "correct_answer": "",
+        "explanation": "The E-field at the center is the superposition of the E-fields from all 4 charges.  Since the E-field magnitude for all the charges is the same (E=kq/r2) with r being the distance from any one charge to the center, and the direction of each E-field is AWAY from the individual charge, the overall E-field is ZERO."
+    },
+    {
+        "number": 189,
+        "text": "Two meters are connected in a circuit to measure the current in a component and the potential difference across the component. Which meters are used and how are they connected to the component?",
+        "options": {
+            "A": "n ammeter in parallel for current , a voltmeter in series for potential difference",
+            "B": "n ammeter in series for current , a voltmeter in parallel for potential difference",
+            "C": "voltmeter in parallel for current , an ammeter in series for potential difference",
+            "D": "voltmeter in series for current , an ammeter in parallel for potential difference"
+        },
+        "correct_answer": "",
+        "explanation": "An ammeter measures current and  must be placed in series . Also , a voltmeter measures potential difference and must be placed in parallel"
+    },
+    {
+        "number": 190,
+        "text": "Which produces an electromotive force e.m.f.?",
+        "options": {
+            "A": "battery",
+            "B": "filament lamp",
+            "C": "resistor",
+            "D": "spring  balance"
+        },
+        "correct_answer": "",
+        "explanation": "Electromotive force is the voltage generated by a source of electrical energy . A battery is specifically designed to provide the voltage ."
+    },
+    {
+        "number": 191,
+        "text": "A student uses a length of wire as a resistor . He makes a second resistor from the same material . To be certain of making a second resistor of higher resistance , he should use a piece of wire that is",
+        "options": {
+            "A": "ong and thick",
+            "B": "ong and thin",
+            "C": "hort and thick",
+            "D": "hort and thin"
+        },
+        "correct_answer": "",
+        "explanation": "A longer and thinner wire will have a higher resistance"
+    },
+    {
+        "number": 192,
+        "text": "Which equation can be used to calculate the resistance R of a resistor ?",
+        "options": {
+            "A": "=I/R",
+            "B": "=VxR",
+            "C": "=VxI",
+            "D": "=IxR"
+        },
+        "correct_answer": "",
+        "explanation": "The equation is V=IxR"
+    },
+    {
+        "number": 193,
+        "text": "An ammeter and an 18\u03a9 resistor are connected in series with a battery . The reading on the ammeter is 0.50A . The resistance o the battery and the ammeter can be ignored. What is the electromotive force ?",
+        "options": {
+            "A": ".0N",
+            "B": ".0V",
+            "C": ".0N",
+            "D": ".0V"
+        },
+        "correct_answer": "",
+        "explanation": "V=0.50Ax18\u03a9=9.0 . The unit is void V ."
+    },
+    {
+        "number": 194,
+        "text": "A step-up transformer is used before electricity is transmitted by overhead cables.Which statement explains why the step-up transformer is used?",
+        "options": {
+            "A": "t increases the current to increase the speed at which the electricity travels.",
+            "B": "t increases the current to reduce energy loss in the cables.",
+            "C": "t increases the voltage to increase the speed at which the electricity travels.",
+            "D": "t increases the voltage to reduce energy loss in the cables."
+        },
+        "correct_answer": "",
+        "explanation": "For the same amount of power, increasing voltage means the current can be reduced proportionally .Step-up transformers increase voltage at the power station before long-distance transmission"
+    },
+    {
+        "number": 195,
         "text": "200 J 50 J 20 J 8 J A block is pulled along a horizontal bench at a constant velocity of 10m/s by a force of 5 N. What is the work done against friction in 5 seconds?",
         "options": {
             "A": "",
@@ -1152,7 +2340,7 @@
         "explanation": "5*40=200"
     },
     {
-        "number": 97,
+        "number": 196,
         "text": "An ideal gas of mass 100 g is stored in a rigid container. Suppose its molecules have a root-mean-square speed of 200 m s' when the gas pressure is 300 kPa, what is the volume of the container?",
         "options": {
             "A": ".22x10^-5 m^3",
@@ -1164,7 +2352,7 @@
         "explanation": ""
     },
     {
-        "number": 98,
+        "number": 197,
         "text": "final speed:5m/s distance:25m final speed:5m/s distance:50m final speed:10m/s distance:25m final speed:10m/s distance:50m A car speeds up from rest at a uniform acceleration of 2 m^-2 for 5 seconds. What is the final speed and distance travelled by the car?",
         "options": {
             "A": "",
@@ -1176,7 +2364,7 @@
         "explanation": "0+2*5=10m/s ((5)^2*2)/2=25m"
     },
     {
-        "number": 99,
+        "number": 198,
         "text": "24m 54.5m 104m 136m A stone is thrown vertically upward with a speed of 6 m/s from the top of a building. The stone takes 4s to reach the ground. What is the height of the building?",
         "options": {
             "A": "",
@@ -1188,7 +2376,7 @@
         "explanation": "6*4+0.5*-9.81*4^2=-54.48"
     },
     {
-        "number": 100,
+        "number": 199,
         "text": "An object of mass 2 kg initially travels at a constant speed of 5 m/s. A force is applied to the object such that its kinetic energy is increased by 100 J. Estimate the final speed of the object.",
         "options": {
             "A": "1.2 m/s",
@@ -1200,7 +2388,7 @@
         "explanation": "100=0.5mv^2-0.5m5^2 v^2=(2(100))/2+5^2      v=11.2m/s"
     },
     {
-        "number": 101,
+        "number": 200,
         "text": "Trolley A moving at a velocity of 5 m/s collides with trolley B which is initially at rest. After collision, they move at a common velocity of 3 m/s If the mass of trolley B is 2 kg, find the mass of trolley A.",
         "options": {
             "A": "kg",
@@ -1212,7 +2400,127 @@
         "explanation": "ma(5)+mb(0) =(ma+mb)(3) ma(5) = (ma+2)(3) 2ma = 6           ma = 3kg"
     },
     {
-        "number": 102,
+        "number": 201,
+        "text": "Two cylindric tubes Tube A and Tube B has the same resistivity. Tube A is three times longer than Tube B. When they are connected in parallel in a closed circuit, 1.6A current passes through Tube A while 9.6A current passes through Tube B. The radius of Tube A is r. What is the radius of Tube B?",
+        "options": {
+            "A": ".5r",
+            "B": ".707r",
+            "C": ".25r",
+            "D": ".41r"
+        },
+        "correct_answer": "",
+        "explanation": "By R=p*L/A ,A=pi*r^2 ,(rA)^2=2(rB)^2, rB=1.41"
+    },
+    {
+        "number": 202,
+        "text": "Monochromatic light (one kind of wavelength) is incident normally on a diffraction grating, producing bright fringes (maxima) on a screen. The angle between the central maximum and the first-order maximum is A. If the experiment is repeated using monochromatic light of a longer wavelength, what will happen to the angleA?",
+        "options": {
+            "A": "t will decrease",
+            "B": "It will increase",
+            "C": "emain unchanged",
+            "D": "ecome zero"
+        },
+        "correct_answer": "",
+        "explanation": "The condition for maxima in a diffraction grating is dsin\u03b8=n\u03bb, where d is the grating spacing, A is the angle of diffraction, n is the order number, and \u03bb is the wavelength. For the first order (n=1), sin\u03b8=\u03bb/d. If the wavelength \u03bb increases, sin\u03b8 must also increase (since d is constant). For angles less than 90\u2218, a larger sinA means a larger angle A. Why others are incorrect: A: This would happen if the wavelength decreased. C: This ignores the direct relationship between sinA and \u03bb. D: The angle only becomes zero for the central maximum (n=0)."
+    },
+    {
+        "number": 203,
+        "text": "Which of the following statements is true for all types of electromagnetic waves (e.g., radio waves, visible light, X-rays) when travelling in a vacuum?",
+        "options": {
+            "A": "hey have the same frequency.",
+            "B": "hey have the same wavelength.",
+            "C": "hey travel at the same speed.",
+            "D": "hey are all visible to the human eye."
+        },
+        "correct_answer": "",
+        "explanation": "All electromagnetic waves travel at the speed of light in a vacuum, regardless of frequency or wavelength."
+    },
+    {
+        "number": 204,
+        "text": "When listening to a sound source, the pitch of the sound corresponds mainly to which property of the sound wave?",
+        "options": {
+            "A": "mplitude",
+            "B": "Frequency",
+            "C": "peed",
+            "D": "avelength"
+        },
+        "correct_answer": "B",
+        "explanation": "Pitch is the perception of how high or low a sound is. This is primarily determined by the fundamental frequency of the sound wave. Higher frequency corresponds to higher pitch. A: Amplitude corresponds mainly to the loudness or intensity of the sound. C: The speed of sound depends on the medium through which it travels, not directly on the pitch perceived (though related to frequency and wavelength via v=f\u03bb). D: Wavelength is related to frequency and speed. While related, frequency is the direct physical property corresponding to pitch."
+    },
+    {
+        "number": 205,
+        "text": "To observe a stable interference pattern from two light sources, the sources must be coherent. What does 'coherent' mean in this context?",
+        "options": {
+            "A": "he sources must emit light of the same colour.",
+            "B": "he sources must emit light with a constant phase difference.",
+            "C": "he sources must emit light of the same intensity.",
+            "D": "he sources must be point sources."
+        },
+        "correct_answer": "",
+        "explanation": "Coherent sources are sources that maintain a constant phase relationship between them. This ensures that the positions of constructive and destructive interference remain fixed, producing a stable pattern. Having the same frequency (and therefore the same colour for light) is a necessary consequence of coherence. A: Same colour implies same frequency, which is necessary but not sufficient. Coherence (constant phase difference) is the key requirement. C: While similar amplitudes produce higher contrast (clearer) patterns, it's not the defining condition for coherence or the possibility of interference itself. D: While point sources (or narrow slits like in Young's experiment) are often used to approximate ideal conditions, coherence is the fundamental requirement regarding the wave properties."
+    },
+    {
+        "number": 206,
+        "text": "A 12\u03a9 resistor and a 6\u03a9 resistor are connected in series with a 9 V battery of negligible internal resistance. What is the power dissipated in the 6\u03a9 resistor?",
+        "options": {
+            "A": ".5 W",
+            "B": ".0 W",
+            "C": ".5 W",
+            "D": ".0 W"
+        },
+        "correct_answer": "",
+        "explanation": "First find the total resistance: Rtotal\u200b=R1\u200b+R2\u200b=12\u03a9+6\u03a9=18\u03a9. Then find the total current flowing in the series circuit: I=V/Rtotal\u200b=9 V/18\u03a9=0.5 A. This same current flows through the 6\u03a9 resistor. The power dissipated in the 6\u03a9 resistor is P6\u200b=I2R6\u200b=(0.5 A)2\u00d7(6\u03a9)=0.25\u00d76=1.5 W."
+    },
+    {
+        "number": 207,
+        "text": "An electric appliance is rated '220 V, 1100 W'. It is connected to the mains using a plug fitted with a fuse. According to safety regulations, which of the following fuse ratings (available standard ratings: 3 A, 5 A, 10 A, 13 A) is the most appropriate?",
+        "options": {
+            "A": "A",
+            "B": "A",
+            "C": "0 A",
+            "D": "3 A"
+        },
+        "correct_answer": "",
+        "explanation": "First, calculate the normal operating current: I=P/V=1100 W/220 V=5 A. A fuse is designed to protect the appliance and wiring by blowing (melting) if the current significantly exceeds the normal operating level. The fuse rating should be the next standard rating above the normal operating current. Given the standard ratings, 5 A is exactly the operating current, which might lead to nuisance blowing. The next standard rating above 5 A is typically 10 A (or 13 A in some systems, but 10 A is often available and closer). Therefore, 10 A is usually considered the most appropriate choice here, providing protection without blowing under normal load."
+    },
+    {
+        "number": 208,
+        "text": "A student pushes the N-pole of a bar magnet into a coil connected to a sensitive galvanometer, causing a deflection. Which action would produce a larger deflection in the same direction?",
+        "options": {
+            "A": "ushing the S-pole into the coil at the same speed.",
+            "B": "ulling the N-pole out of the coil at the same speed.",
+            "C": "ushing the N-pole into the coil at a faster speed.",
+            "D": "ushing the N-pole into a coil with fewer turns at the same speed."
+        },
+        "correct_answer": "",
+        "explanation": "According to Faraday's Law of Induction, the induced EMF (and thus the current and galvanometer deflection) is proportional to the rate of change of magnetic flux linkage (E\u221d\u0394t\u0394(N\u03a6)\u200b). Pushing the magnet faster increases the rate of change of flux (\u0394t\u0394\u03a6\u200b is larger), inducing a larger EMF and deflection. Since the N-pole is still being pushed in, the direction of flux change is the same, so the direction of deflection remains the same. A: Pushing the S-pole in causes the flux to change in the opposite sense compared to pushing the N-pole in, resulting in a deflection in the opposite direction (Lenz's Law). B: Pulling the N-pole out causes the flux linkage to decrease, which is a change in the opposite sense to pushing it in, resulting in a deflection in the opposite direction. D: The induced EMF is proportional to the number of turns N. Using fewer turns would decrease the induced EMF and deflection."
+    },
+    {
+        "number": 209,
+        "text": "A straight wire lies horizontally between the poles of a large magnet, as shown in the diagram (Top View: N-pole on left, S-pole on right, wire running perpendicular to field lines). When the current flows into the page through the wire, what is the direction of the magnetic force on the wire?",
+        "options": {
+            "A": "eft",
+            "B": "ight",
+            "C": "pwards",
+            "D": "ownwards"
+        },
+        "correct_answer": "",
+        "explanation": "Use Fleming's Left-Hand Rule. The magnetic field (B) points from N to S, so horizontally to the Right (First finger). The current (I) flows into the page (Second finger). Your Thumb, representing the Force (F), will point Vertically Downwards."
+    },
+    {
+        "number": 210,
+        "text": "Which of the following statements is correct for a particle moving in a horizontal circle with constant angular velocity?",
+        "options": {
+            "A": "The linear momentum is constant but the kinetic energy varies.",
+            "B": "The linear momentum varies but the kinetic energy is constant.",
+            "C": "Both the linear momentum and the kinetic energy are constant.",
+            "D": "Both the linear momentum and the kinetic energy vary."
+        },
+        "correct_answer": "",
+        "explanation": "Since the direction of the velocity is always changing, the direction of the linear momentum varies, thus linear momentum varies. As the magnitude of the velocity is constant, the kinetic energy is constant as kinetic energy is a scalar without direction."
+    },
+    {
+        "number": 211,
         "text": "Which of the following is not a vector?",
         "options": {
             "A": "Velocity",
@@ -1224,7 +2532,7 @@
         "explanation": "Basic knowledge written on tb"
     },
     {
-        "number": 103,
+        "number": 212,
         "text": "What factor(s) determine the momentum of a moving object? i) Velocity\tii)  Initial speed\tiii) Final speed\tiv) Mass",
         "options": {
             "A": "ii,iii",
@@ -1236,7 +2544,7 @@
         "explanation": "The equation for momentum is momentum = mass \u00d7 velocity"
     },
     {
-        "number": 104,
+        "number": 213,
         "text": "A falling skydiver straightens her legs to increase her surface area. This causes the skydiver to\u2026",
         "options": {
             "A": "Decelerate upwards, magnitude of velocity decreases",
@@ -1248,7 +2556,7 @@
         "explanation": "Acceleration will cause an object to either: speed up, slow down or change direction. In this case she is falling downwards so an upwards acceleration will slow her speed (decrease her magnitude of velocity)."
     },
     {
-        "number": 105,
+        "number": 214,
         "text": "i) Staying at rest. ii) Moving backwards with acceleration 0 ms-2 iii) Turning right at constant speed of 2 ms-1 iv) Driving at speed of 1 ms-1 in a straight line without acceleration.",
         "options": {
             "A": "i,ii",
@@ -1260,7 +2568,7 @@
         "explanation": "Changing direction = Changing velocity; 0 acceleration = 0 net force"
     },
     {
-        "number": 106,
+        "number": 215,
         "text": "A model truck A of mass 4.0 kg is travelling due west with a speed of 18 km h-1. A second truck B of mass 1.5 kg is travelling due east towards A with a speed of 8 m s\u20131. The trucks collide and stick together. Determine their velocity after the collision.",
         "options": {
             "A": "1.45 ms-1 (west)",
@@ -1272,7 +2580,7 @@
         "explanation": "Take west as +ve, \t\tm1v1 + m2v2 = mfvf ; 4*(18/3.6)+1.5*(-8) = (4+1.5)*vf vf = 1.45"
     },
     {
-        "number": 107,
+        "number": 216,
         "text": "A uniform plank of length 4 m and has a mass of 2 kg is pivoted at its center. A 4.905 N weight is placed 1 m to the left of the pivot. How far to the right of the pivot must a 9.81 N weight be placed to balance the plank?",
         "options": {
             "A": "0.25 m",
@@ -1284,7 +2592,7 @@
         "explanation": "Pivoted at center; 4.905*1 = 9.81*d; d = 0.5"
     },
     {
-        "number": 108,
+        "number": 217,
         "text": "A construction crane lifts a 300 kg steel beam vertically upward at a constant speed of 0.5 ms-1. What is the crane's mechanical power output?",
         "options": {
             "A": "150 W",
@@ -1296,7 +2604,7 @@
         "explanation": "Pt=W ; P*(1)=(300*9.81)*0.5 ; P = 1471.5"
     },
     {
-        "number": 109,
+        "number": 218,
         "text": "A roller coaster car starts from a speed of 50 kmh-1 at point A of height 60 m. What is its speed at point B with a height of 20 m?",
         "options": {
             "A": "28.0 ms-1",
@@ -1308,7 +2616,7 @@
         "explanation": "mgh+1/2mv2 = 1/2mv2 ; 9.81*(60-20)+(50/3.6)2/2 = v2/2 ; v = 31.3"
     },
     {
-        "number": 110,
+        "number": 219,
         "text": "A pendulum bob continues to swing after being released from a height of 1.25 m. What is its maximum speed and maximum height it can reach? Neglect air resistance.",
         "options": {
             "A": "4.95 ms-1; 1.25 m",
@@ -1320,7 +2628,43 @@
         "explanation": "Energy always conserved ; mgh = 1/2mv2 ; 9.81*(1.25) = v2/2 ; v = 4.95"
     },
     {
-        "number": 111,
+        "number": 220,
+        "text": "Two resistors, R1\u200b and R2\u200b, are connected in series to a battery with an electromotive force (e.m.f.) of 6 V and negligible internal resistance. If the potential difference across R1\u200b is 2 V, what is the potential difference across R2\u200b? A. 2 V B. 3 V C. 4 V D. 6 V",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "explanation": "In a series circuit, the sum of the potential differences across each resistor is equal to the total e.m.f. of the battery. Therefore, the potential difference across R2\u200b is 6V\u22122V=4V."
+    },
+    {
+        "number": 221,
+        "text": "Two parallel wires carry currents in the same direction. What is the nature of the force between the wires? A. Attractive B. Repulsive C. No force D. The force depends on the magnitude of the currents.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "explanation": "Parallel wires carrying currents in the same direction exert an attractive magnetic force on each other. This can be understood by considering the magnetic field produced by one wire and the force this field exerts on the current in the other wire."
+    },
+    {
+        "number": 222,
+        "text": "Three identical light bulbs are connected in parallel to a battery. If one of the bulbs burns out, what happens to the brightness of the other two bulbs? A. They become brighter. B. They become dimmer. C. Their brightness remains the same. D. The effect depends on the internal resistance of the battery.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "explanation": "In a parallel circuit, each bulb is connected directly to the battery, and the voltage across each bulb is the same (equal to the battery's e.m.f.). When one bulb burns out, the circuit for the other two bulbs remains complete, and the voltage across them does not change. Therefore, their brightness remains the same (assuming an ideal battery with negligible internal resistance; even with internal resistance, the change in brightness would be minimal in a typical scenario)."
+    },
+    {
+        "number": 223,
         "text": "Which best describes the path of a projectile?",
         "options": {
             "A": "Straight line",
@@ -1332,7 +2676,7 @@
         "explanation": "Projectiles follow a parabolic trajectory due to the combination of constant horizontal motion and accelerated vertical motion."
     },
     {
-        "number": 112,
+        "number": 224,
         "text": "In projectile motion, the horizontal component of velocity:",
         "options": {
             "A": "Decreases over time",
@@ -1344,7 +2688,7 @@
         "explanation": "Neglecting air resistance, horizontal velocity is constant because no force acts horizontally."
     },
     {
-        "number": 113,
+        "number": 225,
         "text": "What is the net force on an object moving at constant velocity?",
         "options": {
             "A": "Zero",
@@ -1356,7 +2700,7 @@
         "explanation": "Newton\u2019s First Law states that if velocity is constant, net force must be zero (no acceleration)."
     },
     {
-        "number": 114,
+        "number": 226,
         "text": "If air resistance is negligible, which projectile will hit the ground first when launched horizontally from the same height?",
         "options": {
             "A": "A heavy cannonball",
@@ -1368,7 +2712,7 @@
         "explanation": "Without air resistance, all objects accelerate downward at g = 9.8 ms^-2, regardless of mass."
     },
     {
-        "number": 115,
+        "number": 227,
         "text": "What is the reaction force when you push against a wall?",
         "options": {
             "A": "The wall pushes back with equal force",
@@ -1380,7 +2724,7 @@
         "explanation": "Newton\u2019s Third Law states that every action has an equal and opposite reaction. The wall exerts a force back on you."
     },
     {
-        "number": 116,
+        "number": 228,
         "text": "A force of 36 N is applied to a 999 g object. What is the acceleration of the object?",
         "options": {
             "A": "0.36m/s\u00b2",
@@ -1392,7 +2736,7 @@
         "explanation": "F=ma (999g=0.999kg)"
     },
     {
-        "number": 117,
+        "number": 229,
         "text": "An object is moving at 25 m/s and comes to a stop in 5 seconds. What is the average acceleration?",
         "options": {
             "A": "-5 m/s\u00b2",
@@ -1404,7 +2748,7 @@
         "explanation": "a=change in v/change in time"
     },
     {
-        "number": 118,
+        "number": 230,
         "text": "If a 0.0865 kg object is acted upon by a net force of  3N, what will be its acceleration?",
         "options": {
             "A": "34.6 m/s\u00b2",
@@ -1416,7 +2760,7 @@
         "explanation": "F=ma"
     },
     {
-        "number": 119,
+        "number": 231,
         "text": "A car accelerates from rest to  0.07 km/s in 2 seconds. What is the acceleration of the car?",
         "options": {
             "A": "30 m/s\u00b2",
@@ -1428,7 +2772,7 @@
         "explanation": "a=change in v/change in time"
     },
     {
-        "number": 120,
+        "number": 232,
         "text": "What is the weight of a 1g object on Earth (g = 9.8 m/s\u00b2)?",
         "options": {
             "A": "0.0098 N",
@@ -1440,7 +2784,7 @@
         "explanation": "W=mg"
     },
     {
-        "number": 121,
+        "number": 233,
         "text": "If a 20 kg object is pushed with a force of 80 N, what is its acceleration?",
         "options": {
             "A": "2 m/s\u00b2",
@@ -1452,7 +2796,7 @@
         "explanation": "F=ma"
     },
     {
-        "number": 122,
+        "number": 234,
         "text": "An object is thrown upward with an initial velocity of 20 m/s. How high will it rise before coming to a stop?",
         "options": {
             "A": "10 m",
@@ -1464,7 +2808,7 @@
         "explanation": "v2=u2+2as"
     },
     {
-        "number": 123,
+        "number": 235,
         "text": "A 5 kg object is sliding on a frictionless surface with a speed of 10 m/s. What is its momentum?",
         "options": {
             "A": "10 kg\u00b7m/s",
@@ -1476,7 +2820,7 @@
         "explanation": "p=mv"
     },
     {
-        "number": 124,
+        "number": 236,
         "text": "What is the net force acting on a 4 kg object that is accelerating at 3 m/s\u00b2?",
         "options": {
             "A": "4 N",
@@ -1488,7 +2832,7 @@
         "explanation": "F=ma"
     },
     {
-        "number": 125,
+        "number": 237,
         "text": "People feel cooler when they get out of water after swimming. Which of the following is/are the reason(s) ? (1)The water on the skin evaporates. \uff082\uff09The water on the skin absorbs latent heat of fusion. (3) The water on the skin releases latent heat of vaporization to the surrounding air.",
         "options": {
             "A": "1) only",
@@ -1500,7 +2844,7 @@
         "explanation": "when water evaporates water on the skin release heat"
     },
     {
-        "number": 126,
+        "number": 238,
         "text": "\u2460\uff09The gravitational force acting on the man increases. \uff082\uff09The gravitational force acting on the lift increases. \uff083\uff09The force acting on the man by the floor of the lift increases. A man is standing in a lift. The lift is initially at rest. When the lift starts to move upward, the man feels heavier. Which of the following statements is/are correct ?",
         "options": {
             "A": "1) only",
@@ -1512,7 +2856,103 @@
         "explanation": "when the mass remains constant, the acceleration increase the net force will increase"
     },
     {
-        "number": 127,
+        "number": 239,
+        "text": "How to strengthen an electromagnet?",
+        "options": {
+            "A": "ncrease the number of turns per unit length of the coil",
+            "B": "nsert a copper coil into the coil",
+            "C": "ecrease the current through the coil",
+            "D": "se a DC supply instead of AC supply"
+        },
+        "correct_answer": "",
+        "explanation": "only (A) can increase the number of turns per unit length of the coil"
+    },
+    {
+        "number": 240,
+        "text": "What is the effect of a magnetic field on a moving charge?",
+        "options": {
+            "A": "lowing down the moving charge",
+            "B": "hanging the moving direction of the charge",
+            "C": "hanging the magnitude of magnetic force",
+            "D": "o effect"
+        },
+        "correct_answer": "",
+        "explanation": "because F is perpendicular to the moving direction, so it has no work on the charge, the magnitude of F and speed remains unchanged."
+    },
+    {
+        "number": 241,
+        "text": "Two particles travel through a uniform magnetic field and electric field without deflection. They have the same",
+        "options": {
+            "A": "harge",
+            "B": "ass",
+            "C": "elocity",
+            "D": "othing same"
+        },
+        "correct_answer": "C",
+        "explanation": "velocity must be the same so that the particles do not have deflection"
+    },
+    {
+        "number": 242,
+        "text": "Which of the following cannot increase the maximum induced emf in the search coil, which is placed in varying B fields and ac supply?",
+        "options": {
+            "A": "increase the coil area",
+            "B": "ncrease the number of turns of the coil",
+            "C": "ncrease the frequency of ac supply",
+            "D": "se dc supply"
+        },
+        "correct_answer": "",
+        "explanation": "there must be changing current so that to induce emf, but dc supply cannot provide a changing current"
+    },
+    {
+        "number": 243,
+        "text": "How the graph of current (produced by a simple ac generator)against time change when the coil is rotating twice as fast?",
+        "options": {
+            "A": "mplitude doubles",
+            "B": "eriod doubles",
+            "C": "raph translated to the right",
+            "D": "raph translated upwards"
+        },
+        "correct_answer": "A",
+        "explanation": "period is halved when frequency doubles. And there will be no translation on the graph"
+    },
+    {
+        "number": 244,
+        "text": "Which of the followings are true?",
+        "options": {
+            "A": "in ac generator, the current flows through the commutator to the external circuit",
+            "B": "n dc generator, frequency of the induced current equals frequency f rotations the coil",
+            "C": "n ac generator, the emf induced in the coil is constant in magnitude",
+            "D": "n dc generator, the induced current in the coil keeps flowing in the same direction"
+        },
+        "correct_answer": "",
+        "explanation": "For A, it should be via the slip rings, not a commutator. A is false.          For B, coil completes one rotation, the current goes through two cycles of variation, so they have the same frequency. B is true.      For C, when the coil is vertical, there will be no induced current and emf. C is false.     For D, the induced current in the coil  changes every half turn. D is wrong"
+    },
+    {
+        "number": 245,
+        "text": "Which of the followings has the strongest biological effects on the human body when the source is inside the body?",
+        "options": {
+            "A": "a radiation",
+            "B": "radiation",
+            "C": "amma radiation",
+            "D": "qual strength"
+        },
+        "correct_answer": "",
+        "explanation": "because only alpha radiation has strong ionizing power"
+    },
+    {
+        "number": 246,
+        "text": "Which of the followings is/ are nuclear radiation detectors?",
+        "options": {
+            "A": "park counter",
+            "B": "hotographic film",
+            "C": "M counter",
+            "D": "ll of above"
+        },
+        "correct_answer": "",
+        "explanation": "All of above can detect the ions formed of the radiation"
+    },
+    {
+        "number": 247,
         "text": "Which of the following changes will lead to a decrease in pressure, assuming the amount of gas remains the same?",
         "options": {
             "A": "Increasing the volume while keeping temperature constant.",
@@ -1524,7 +2964,7 @@
         "explanation": "PV=nRT"
     },
     {
-        "number": 128,
+        "number": 248,
         "text": "What happens to the pressure of a gas if its volume is halved while temperature remains constant?",
         "options": {
             "A": "ressure doubles",
@@ -1536,7 +2976,7 @@
         "explanation": "P\u221d1/V"
     },
     {
-        "number": 129,
+        "number": 249,
         "text": "2 identical ball shoot out from the same cannon at the same time. Ball A shoot at a 600 angle from the horizontal with 20 m/s speed.Ball B shoot horizontally with 10 m/s speed.Which of the following must be true?Assume no friction loss. When ball B touch the ground, ball A is above ball B. 2 balls will never meet",
         "options": {
             "A": "1)",
@@ -1548,7 +2988,7 @@
         "explanation": "(1) same horizontal velocity,(2) they will meet when ball a touch the ground because they have the same velocity."
     },
     {
-        "number": 130,
+        "number": 250,
         "text": "2 identical ball shoot out from the same cannon at the same time. Ball A shoot at a 450 angle from the horizontal with 20 m/s speed.Ball B shoot horizontally with 10 m/s speed.Which of the following must be true?Assume no friction loss. When ball B touches the ground, ball A is above ball B. 2 balls will never meet",
         "options": {
             "A": "1)",
@@ -1560,7 +3000,7 @@
         "explanation": "(1) Different horizontal velocity,(2) they will never meet because they have different velocity."
     },
     {
-        "number": 131,
+        "number": 251,
         "text": "2 identical balls shoot out from the same cannon at the same time. Ball A shoot at a 300 angle from the horizontal with 20 m/s speed.Ball B shoot horizontally with 17.3 m/s speed.Which of the following must be true?Assume no friction loss. (1)When ball B touches the ground, ball A is above ball B. (2)2 balls will never meet",
         "options": {
             "A": "1)",
@@ -1572,7 +3012,7 @@
         "explanation": "(1) Different horizontal velocity,(2) they will never meet because they have different velocity."
     },
     {
-        "number": 132,
+        "number": 252,
         "text": "Assume no friction.When a man stands on the Earth, push the box forward with his hand, what will happen?",
         "options": {
             "A": "he box move forward",
@@ -1584,7 +3024,7 @@
         "explanation": "The box will not move because No friction between the man and the Earth so No force can act on the box by the man."
     },
     {
-        "number": 133,
+        "number": 253,
         "text": "Assume no friction and have air resistance.When a man stands on the Earth, pushes the box forward with his hand, what will happen?",
         "options": {
             "A": "he box move forward",
@@ -1596,7 +3036,7 @@
         "explanation": "The air will push the man forward, there is force act on the box by the man."
     },
     {
-        "number": 134,
+        "number": 254,
         "text": "When you are scrolling reels/shorts/tick tock, if you push your finger from bottom to top of the screen, what will happen?Assume no friction.",
         "options": {
             "A": "ou watch the next reel",
@@ -1608,7 +3048,7 @@
         "explanation": "The phone screen are not using touch sensor nowadays."
     },
     {
-        "number": 135,
+        "number": 255,
         "text": "When you are scrolling reels/shorts/tick tock, if you push your finger from bottom to top of the screen on an iPhone 4, what will happen?Assume no friction.",
         "options": {
             "A": "ou watch the next reel",
@@ -1620,7 +3060,7 @@
         "explanation": "Well with just touch sensor you can\u2019t scroll"
     },
     {
-        "number": 136,
+        "number": 256,
         "text": "Marcy pulls a backpack on wheels down the 100m hall. The 60N force is applied at an angle of 30\u00b0 above the horizontal. How much work is done by Marcy?",
         "options": {
             "A": "800",
@@ -1632,7 +3072,7 @@
         "explanation": "60 cos 30 x 100"
     },
     {
-        "number": 137,
+        "number": 257,
         "text": "A 30,000-kg freight car is coasting at 0.850 m/s and it crashed with a 10,000 kg train .  What is the final velocity of the freight car?",
         "options": {
             "A": ".3",
@@ -1644,7 +3084,7 @@
         "explanation": "30000x0.850/(30000+110000)"
     },
     {
-        "number": 138,
+        "number": 258,
         "text": "What is the velocity of a 900-kg car initially moving at 30.0 m/s, just after it hits a 150-kg deer initially running at 12.0 m/s in the same direction? Assume the deer remains in the car.",
         "options": {
             "A": "0",
@@ -1656,7 +3096,7 @@
         "explanation": "900x30+150x12=(900+150)v"
     },
     {
-        "number": 139,
+        "number": 259,
         "text": "A tennis ball is struck such that it leaves the racket horizontally with a speed of 28.0 m/s. The ball hits the court at a horizontal distance of 19.6 m from the racket. What is the vertical height of the tennis ball when it leaves the racket?",
         "options": {
             "A": ".2",
@@ -1668,7 +3108,7 @@
         "explanation": "19.6/28 t=0.7s 0.5x9.81x0.7^(2)"
     },
     {
-        "number": 140,
+        "number": 260,
         "text": "A nurse pushes a cart by exerting a force on the handle at a downward angle 35.0\u00b0 below the horizontal. The loaded cart has a mass of 28.0 kg, and the force of friction is 60.0 N.What force must the nurse exert to move at a constant velocity?",
         "options": {
             "A": "6",
@@ -1680,7 +3120,7 @@
         "explanation": "60/ cos35"
     },
     {
-        "number": 141,
+        "number": 261,
         "text": "Two men A and B, of mass 40kg and 60kg respectively, pull each other by a rope. If they stand on a frictionless ground 50m apiece, find the distance from the original position of A when they meet each other.",
         "options": {
             "A": "0m",
@@ -1692,7 +3132,7 @@
         "explanation": "Acceleration of A= F/60 Acceleration of B= F/60 S=\u00bd*(F/40)t^2 Ft^2 =80s 50-s= \u00bd(F/60)t^2 S= 30"
     },
     {
-        "number": 142,
+        "number": 262,
         "text": "Which of the following statements about a free falling object travelling with decreasing speed under the influence of air resistance is/are correct? (1)Its acceleration is equal to acceleration due to gravity. (2)The net force acting on the object is decreasing. (3)The weight of the object is decreasing.",
         "options": {
             "A": "",
@@ -1704,7 +3144,7 @@
         "explanation": "Take 'downward' direction as positive. Since its velocity (pointing downward, thus positive) is decreasing, its acceleration is negative. (1)\u00d7 Since the acceleration is negative, it is not equal to that due to gravity, which is positive. 2)\u221a The object falls down with decreasing speed. That means the upward air resistance is larger than the weight. As the speed is decreasing, the air resistance is also decreasing. So the net force is also decreasing. 3x Weight is constant at sea level so acceleration due to gravity remains unchanged."
     },
     {
-        "number": 143,
+        "number": 263,
         "text": "Which of the following statements for an object momentarily at rest is/are correct? 1 The speed of the object is zero. 2 The net force acting on the object is zero. 3 A force is required to change the speed of the object.",
         "options": {
             "A": "only",
@@ -1716,7 +3156,7 @@
         "explanation": "1 \u2713Speed and velocity are zero at rest 2 x The object is just momentarily at rest. Its speed is changing. That means it has acceleration, which is brought about by a net force. An example is a ball thrown up to its highest position. Its speed is zero but there is a force (the weight of the ball)acting downward. 3 \u2713Without the action of a force, an object remains at rest or moves with constant speed."
     },
     {
-        "number": 144,
+        "number": 264,
         "text": "Which of the following statements best describes the concept of specific heat capacity?",
         "options": {
             "A": "he amount of heat required to raise the temperature of one kilogram of a substance by one degree Celsius.",
@@ -1728,7 +3168,7 @@
         "explanation": "The correct answer is A. Specific heat capacity is defined as the amount of heat required to raise the temperature of one kilogram of a substance by one degree Celsius. It is an intensive property of a material that reflects its ability to store heat."
     },
     {
-        "number": 145,
+        "number": 265,
         "text": "Which of the following materials is typically a good conductor of heat?",
         "options": {
             "A": "ood",
@@ -1740,7 +3180,7 @@
         "explanation": "The correct answer is C. Aluminum is a good conductor of heat due to its high thermal conductivity. Good conductors allow heat to flow through them easily."
     },
     {
-        "number": 146,
+        "number": 266,
         "text": "According to Newton's First Law of Motion, an object will remain at rest or in uniform motion in a straight line unless acted upon by:",
         "options": {
             "A": "net external force.",
@@ -1752,7 +3192,7 @@
         "explanation": "The correct answer is A. Newton's First Law states that an object will remain at rest or in uniform motion unless acted upon by a net external force. Internal forces and external forces that cancel out do not cause a change in motion."
     },
     {
-        "number": 147,
+        "number": 267,
         "text": "When an object is in free fall near the surface of the Earth, the acceleration due to gravity is approximately:",
         "options": {
             "A": ".8 m/s^2",
@@ -1764,7 +3204,7 @@
         "explanation": "The correct answer is A. Near the surface of the Earth, the acceleration due to gravity is approximately 9.8 m/s^2. This value is commonly used in physics calculations involving free fall."
     },
     {
-        "number": 148,
+        "number": 268,
         "text": "Which of the following best describes the process of convection?",
         "options": {
             "A": "eat transfer through direct contact between particles of a substance.",
@@ -1776,7 +3216,7 @@
         "explanation": "The correct answer is C. Convection is the process of heat transfer through the movement of fluid particles. This movement results in the transfer of heat from one place to another."
     },
     {
-        "number": 149,
+        "number": 269,
         "text": "Which of the following best describes the concept of thermal equilibrium?",
         "options": {
             "A": "hen two objects have the same temperature.",
@@ -1788,7 +3228,7 @@
         "explanation": "The correct answer is A. Thermal equilibrium is achieved when two objects have the same temperature and no net heat flows between them."
     },
     {
-        "number": 150,
+        "number": 270,
         "text": "What happens to the volume of most substances when they are heated?",
         "options": {
             "A": "The volume decreases.",
@@ -1800,7 +3240,7 @@
         "explanation": "The correct answer is C. Most substances expand when heated, which causes their volume to increase. This phenomenon is known as thermal expansion."
     },
     {
-        "number": 151,
+        "number": 271,
         "text": "Which of the following is a scalar quantity?",
         "options": {
             "A": "orce",
@@ -1812,7 +3252,7 @@
         "explanation": "The correct answer is D. Mass is a scalar quantity because it only has magnitude and no direction associated with it. Scalar quantities are fully described by a magnitude alone."
     },
     {
-        "number": 152,
+        "number": 272,
         "text": "In which scenario would an object experience zero net force?",
         "options": {
             "A": "A car moving at a constant speed around a circular track.",
@@ -1824,7 +3264,7 @@
         "explanation": "The correct answer is A. When an object moves at a constant speed in a circular path, the net force acting on it is zero. This is because the centripetal force required for circular motion is balanced by other forces."
     },
     {
-        "number": 153,
+        "number": 273,
         "text": "Which of the following best describes the concept of specific latent heat?",
         "options": {
             "A": "he amount of heat required to raise the temperature of a substance by one degree Celsius.",
@@ -1836,7 +3276,7 @@
         "explanation": "The correct answer is B. Specific latent heat refers to the amount of heat required to change the state of a substance (e.g., melting or vaporization) without a change in temperature. It is a characteristic property of the substance."
     },
     {
-        "number": 154,
+        "number": 274,
         "text": "A van of mass 1000kg decelerates uniformly from 40ms^[-1] to stop in 50m along a horizontal road. Find the friction acting on the car.",
         "options": {
             "A": "000N",
@@ -1848,7 +3288,7 @@
         "explanation": "KE1 +PE1 =KE2+PE2+Workdone by friction \u00bd 1000*40^[2]=50f F=16000N"
     },
     {
-        "number": 155,
+        "number": 275,
         "text": "On a smooth surface, ball A and ball B collide. A of 100g moves at 3ms^[-1] towards right and B of 50g moves at 5ms ^[-1] both just right before collision.Which of the following is/are the possible results . 1)A stops 2)B stops 3)Both moves at 0.33 ms^[-1] towards the right after collision",
         "options": {
             "A": "only",
@@ -1860,7 +3300,7 @@
         "explanation": "Initial momentum: Take rightwards as positive (0.1*3)+(0.05*-5)=0.05kg m/s As it is an inelastic collision,if both balls were to stop completely after the collision, the total final momentum would be zero. Since momentum is conserved, if the initial momentum is not zero, the final momentum cannot be zero.And none of the ball will stop because the final velocity is not zero. 0.05=(0.1+0.05)v V=0.33m/s (rightwards) Only 3 is correct"
     },
     {
-        "number": 156,
+        "number": 276,
         "text": "Water enters and leaves the hose at the same speed 5ms and 800g water flows out of hose each second. The child bends the hose so that he could pour the water into the pool. The water flows from the ground to the pool with the hose rolled up for few times. Which of the following statements is true.",
         "options": {
             "A": "he momentum of water is conserved.",
@@ -1872,7 +3312,7 @@
         "explanation": "because the direction of velocity of water has changed Net force acting on water is equal to the rate of change in momentum of water.There is change in momentum of water, there is net force. There is force acting on the hose , by Newton third law,as the hose exert force on water, water exert a force on hose too."
     },
     {
-        "number": 157,
+        "number": 277,
         "text": "Two containers containing the same ideal gas, Container A is 50m^[3] ,container B is 10m^[3]. They are connected by a tube with a tap closed initially. Which of the following quantity will become the same after opening the tap? The number of moles of gas in each container The number molecules of gas in each container The air pressure in each container",
         "options": {
             "A": "only",
@@ -1884,7 +3324,7 @@
         "explanation": "The gas will redistribute  based on the volume of containers, so neither the number of moles nor the molecules will become the same.However after opening the tap, the pressure in each container will be equalized."
     },
     {
-        "number": 158,
+        "number": 278,
         "text": "A man stands on a weighing scale inside a lift. The scale reads 690 N. What will the scale read if the lift accelerates upwards at 3ms^[-1] ?",
         "options": {
             "A": "50N",
@@ -1896,7 +3336,7 @@
         "explanation": "690/9.81 =70.336 kg Fnet=ma W=70.4*(9.81+3) W=901.8N"
     },
     {
-        "number": 159,
+        "number": 279,
         "text": "Match each observation (1\u20133) to the correct gas law (A\u2013C): 1.When temperature decreased, the gas volume decreases at constant pressure. 2.When compressed, the gas pressure increases at constant temperature. 3.When heated, the gas pressure increases at constant volume.",
         "options": {
             "A": "1:a  2:b  3:c",
@@ -1908,7 +3348,7 @@
         "explanation": "1. Volume decreases when cooled (constant P) 2.Pressure increases when compressed (constant T) 3.Pressure increases when heated (constant V)"
     },
     {
-        "number": 160,
+        "number": 280,
         "text": "A cylinder contains an ideal gas at 27\u00b0c with a pressure of 200 kPa. If the temperature rises to 150 \u00b0c while the volume remains constant, what is the new pressure of the gas?",
         "options": {
             "A": "182 kPa",
@@ -1920,7 +3360,7 @@
         "explanation": ": 200/(273+27)=  P/ (273+150)"
     },
     {
-        "number": 161,
+        "number": 281,
         "text": "A beam with length of 6m , self weight if 2kg  is balanced at its pivot. A 3 kg mass is placed 1 meter to the left of the pivot. What mass must be placed 3 meters to the right of the pivot to keep the beam in equilibrium?",
         "options": {
             "A": "kg",
@@ -1932,7 +3372,7 @@
         "explanation": "Total\u00a0Momentclockwise=Moment Beam+Moment left=58.86+29.43=88.29(nm) Moment right\u200b=m\u00d79.81\u00d73=29.43m(nm) Anticlockwise =clockwise 88.29/29.43=m M=3 kg"
     },
     {
-        "number": 162,
+        "number": 282,
         "text": "When an object is projected vertically upwards, its velocity is ___ at the highest point.",
         "options": {
             "A": "ame as start",
@@ -1944,7 +3384,7 @@
         "explanation": "It will stop at the highest point as gravity is added on the object"
     },
     {
-        "number": 163,
+        "number": 283,
         "text": "When a person walks forwards, what direction does the friction act on the person by the ground point to? i)backwards ii)forwards iii)downwards",
         "options": {
             "A": "i only",
@@ -1956,7 +3396,7 @@
         "explanation": "acted on the person by ground = direction of person"
     },
     {
-        "number": 164,
+        "number": 284,
         "text": "A ball is thrown horizontally at a velocity of 20 m/s from a height of 10 m. How far does it travel horizontally before impact?",
         "options": {
             "A": "8.6m",
@@ -1968,7 +3408,7 @@
         "explanation": "calculation"
     },
     {
-        "number": 165,
+        "number": 285,
         "text": "Which of the following statements is true about Newton\u2019s FIRST Law?",
         "options": {
             "A": "An object at rest remains at rest unless there is an unbalanced force acting on it.",
@@ -1980,7 +3420,7 @@
         "explanation": "All of them are true but only A is related to Newton\u2019s first law."
     },
     {
-        "number": 166,
+        "number": 286,
         "text": "Mr Man and Mr Hung both run from A to B. Mr Man has an average speed of 1ms-1 and Mr Hung has an average speed of 2ms-1. Which of the following must be true?",
         "options": {
             "A": "The magnitude of Mr Hung\u2019s average velocity is higher than the magnitude of Mr Man\u2019s average velocity.",
@@ -1992,7 +3432,7 @@
         "explanation": "They have the same starting point and ending point so their displacement is the same. Their distance travelled may be different so A and B may not be true."
     },
     {
-        "number": 167,
+        "number": 287,
         "text": "Box A of mass 30kg and Box B of mass 3kg were released from rest in vacuum. Which box will reach the ground first?",
         "options": {
             "A": "Box A",
@@ -2004,7 +3444,7 @@
         "explanation": "The acceleration of free falling objects are the same. So the time needed to reach the ground is also the same."
     },
     {
-        "number": 168,
+        "number": 288,
         "text": "Ball X is of the same size as ball Y but is much heavier. They are released from rest at the same time from a certain height. Which of the following statements about the balls is/are correct? (1) X reaches the ground before Y. (2) The velocity of each ball increases uniformly. (3) Their accelerations are zero when they are just released.",
         "options": {
             "A": "(1)only",
@@ -2016,7 +3456,7 @@
         "explanation": "Y should reaches ground before x, acceleration =9.81"
     },
     {
-        "number": 169,
+        "number": 289,
         "text": "Which of the following statements about force is incorrect?",
         "options": {
             "A": "orce is a vector quantity",
@@ -2028,7 +3468,7 @@
         "explanation": "There\u2019s non contact force"
     },
     {
-        "number": 170,
+        "number": 290,
         "text": "Which of the following statements is/are correct? (1) When moving at the same speed, a bowling ball is harder to stop than a ping-pong ball. (2) Objects always have the same inertia when they are at rest. (3) When a bus accelerates forwards suddenly, passengers inside lean backwards because they are acted on by friction.",
         "options": {
             "A": "(1) only",
@@ -2040,7 +3480,7 @@
         "explanation": ""
     },
     {
-        "number": 171,
+        "number": 291,
         "text": "Assume that the ball slows down uniformly. If the velocity of the ball after being kicked is u m s what is the net force acting on the ball when it rolls. A boy kicks a ball of mass 1.2 kg on level grassland. The ball rolls for 20 m before it stops.",
         "options": {
             "A": "0.01 u2 N",
@@ -2052,7 +3492,7 @@
         "explanation": "by v2=u2 + 2as, a= u/40. By F=ma, F= 1.2u/40=0.03"
     },
     {
-        "number": 172,
+        "number": 292,
         "text": "Which one is correct when a fixed mass of gas is compressed and also heated at the same time? 1.Average spacing between the gas molecules 2.Average speed of the gas  molecules",
         "options": {
             "A": "1.remains unchanged 2.increases",
@@ -2064,7 +3504,7 @@
         "explanation": "it is because the gas molecules will go faster when the temperature is higher"
     },
     {
-        "number": 173,
+        "number": 293,
         "text": "According to the kinetic theory of gases, which of the following statements is incorrect for an ideal gas?",
         "options": {
             "A": "The pressure exerted by the gas arises due to collisions of molecules with the container walls",
@@ -2076,7 +3516,7 @@
         "explanation": "It is because ideal gas molecules exert no intermolecular forces"
     },
     {
-        "number": 174,
+        "number": 294,
         "text": "An ideal gas is heated at constant volume. Which of the following quantities must increase?",
         "options": {
             "A": "Root-mean-square (r.m.s.) speed of molecules",
@@ -2088,7 +3528,7 @@
         "explanation": "The r.m.s. speed of molecules depends on temperature which increases when heated"
     },
     {
-        "number": 175,
+        "number": 295,
         "text": "When you heat an ideal gas, what happens to its molecules?",
         "options": {
             "A": "Move faster",
@@ -2100,7 +3540,7 @@
         "explanation": "Gas molecules move faster when the temperature is higher"
     },
     {
-        "number": 176,
+        "number": 296,
         "text": "Two ideal gas samples in identical containers are at the same temperature but have different molecular masses. Which statement is correct?",
         "options": {
             "A": "Both samples exert equal pressure on their containers",
@@ -2112,7 +3552,7 @@
         "explanation": "Lighter molecules move faster so there will be more frequent wall collisions"
     },
     {
-        "number": 177,
+        "number": 297,
         "text": "Ball X is of the same size as ball Y but is much heavier. They are released from rest at the same time from a certain height. Which of the following statements about the balls is/are correct? (1) X reaches the ground before Y. (2) The velocity of each ball increases uniformly. (3) Their accelerations are zero when they are just released.",
         "options": {
             "A": "(1)only",
@@ -2124,7 +3564,7 @@
         "explanation": "Y should reaches ground before x, acceleration =9.81"
     },
     {
-        "number": 178,
+        "number": 298,
         "text": "Which of the following statements about force is incorrect?",
         "options": {
             "A": "orce is a vector quantity",
@@ -2136,7 +3576,7 @@
         "explanation": "There\u2019s non contact force"
     },
     {
-        "number": 179,
+        "number": 299,
         "text": "Which of the following statements is/are correct? (1) When moving at the same speed, a bowling ball is harder to stop than a ping-pong ball. (2) Objects always have the same inertia when they are at rest. (3) When a bus accelerates forwards suddenly, passengers inside lean backwards because they are acted on by friction.",
         "options": {
             "A": "(1) only",
@@ -2148,7 +3588,7 @@
         "explanation": ""
     },
     {
-        "number": 180,
+        "number": 300,
         "text": "Assume that the ball slows down uniformly. If the velocity of the ball after being kicked is u m s what is the net force acting on the ball when it rolls. A boy kicks a ball of mass 1.2 kg on level grassland. The ball rolls for 20 m before it stops.",
         "options": {
             "A": "0.01 u2 N",
@@ -2160,7 +3600,7 @@
         "explanation": "by v2=u2 + 2as, a= u/40. By F=ma, F= 1.2u/40=0.03"
     },
     {
-        "number": 181,
+        "number": 301,
         "text": "Which of the following statements best describes the concept of specific heat capacity?",
         "options": {
             "A": "he amount of heat required to raise the temperature of one kilogram of a substance by one degree Celsius.",
@@ -2172,7 +3612,7 @@
         "explanation": "The correct answer is A. Specific heat capacity is defined as the amount of heat required to raise the temperature of one kilogram of a substance by one degree Celsius. It is an intensive property of a material that reflects its ability to store heat."
     },
     {
-        "number": 182,
+        "number": 302,
         "text": "Which of the following materials is typically a good conductor of heat?",
         "options": {
             "A": "ood",
@@ -2184,7 +3624,7 @@
         "explanation": "The correct answer is C. Aluminum is a good conductor of heat due to its high thermal conductivity. Good conductors allow heat to flow through them easily."
     },
     {
-        "number": 183,
+        "number": 303,
         "text": "According to Newton's First Law of Motion, an object will remain at rest or in uniform motion in a straight line unless acted upon by:",
         "options": {
             "A": "net external force.",
@@ -2196,7 +3636,7 @@
         "explanation": "The correct answer is A. Newton's First Law states that an object will remain at rest or in uniform motion unless acted upon by a net external force. Internal forces and external forces that cancel out do not cause a change in motion."
     },
     {
-        "number": 184,
+        "number": 304,
         "text": "When an object is in free fall near the surface of the Earth, the acceleration due to gravity is approximately:",
         "options": {
             "A": ".8 m/s^2",
@@ -2208,7 +3648,7 @@
         "explanation": "The correct answer is A. Near the surface of the Earth, the acceleration due to gravity is approximately 9.8 m/s^2. This value is commonly used in physics calculations involving free fall."
     },
     {
-        "number": 185,
+        "number": 305,
         "text": "Which of the following best describes the process of convection?",
         "options": {
             "A": "eat transfer through direct contact between particles of a substance.",
@@ -2220,7 +3660,7 @@
         "explanation": "The correct answer is C. Convection is the process of heat transfer through the movement of fluid particles. This movement results in the transfer of heat from one place to another."
     },
     {
-        "number": 186,
+        "number": 306,
         "text": "Which of the following best describes the concept of thermal equilibrium?",
         "options": {
             "A": "hen two objects have the same temperature.",
@@ -2232,7 +3672,7 @@
         "explanation": "The correct answer is A. Thermal equilibrium is achieved when two objects have the same temperature and no net heat flows between them."
     },
     {
-        "number": 187,
+        "number": 307,
         "text": "What happens to the volume of most substances when they are heated?",
         "options": {
             "A": "The volume decreases.",
@@ -2244,7 +3684,7 @@
         "explanation": "The correct answer is C. Most substances expand when heated, which causes their volume to increase. This phenomenon is known as thermal expansion."
     },
     {
-        "number": 188,
+        "number": 308,
         "text": "Which of the following is a scalar quantity?",
         "options": {
             "A": "orce",
@@ -2256,7 +3696,7 @@
         "explanation": "The correct answer is D. Mass is a scalar quantity because it only has magnitude and no direction associated with it. Scalar quantities are fully described by a magnitude alone."
     },
     {
-        "number": 189,
+        "number": 309,
         "text": "In which scenario would an object experience zero net force?",
         "options": {
             "A": "A car moving at a constant speed around a circular track.",
@@ -2268,7 +3708,7 @@
         "explanation": "The correct answer is A. When an object moves at a constant speed in a circular path, the net force acting on it is zero. This is because the centripetal force required for circular motion is balanced by other forces."
     },
     {
-        "number": 190,
+        "number": 310,
         "text": "Which of the following best describes the concept of specific latent heat?",
         "options": {
             "A": "he amount of heat required to raise the temperature of a substance by one degree Celsius.",
@@ -2280,7 +3720,7 @@
         "explanation": "The correct answer is B. Specific latent heat refers to the amount of heat required to change the state of a substance (e.g., melting or vaporization) without a change in temperature. It is a characteristic property of the substance."
     },
     {
-        "number": 191,
+        "number": 311,
         "text": "What is the formula for calculating speed?",
         "options": {
             "A": "Speed = Distance \u00d7 Time",
@@ -2292,7 +3732,7 @@
         "explanation": "Speed tells us how fast something is moving, calculated by dividing the distance traveled by the time taken."
     },
     {
-        "number": 192,
+        "number": 312,
         "text": "If a car travels 100 meters in 5 seconds, what is its speed?",
         "options": {
             "A": "10 m/s",
@@ -2304,7 +3744,7 @@
         "explanation": "Speed is calculated by dividing 100 meters by 5 seconds, resulting in 20 meters per second."
     },
     {
-        "number": 193,
+        "number": 313,
         "text": "What is the difference between speed and velocity?",
         "options": {
             "A": "Speed is faster than velocity.",
@@ -2316,7 +3756,7 @@
         "explanation": "Speed has magnitude only, while velocity includes both magnitude and direction."
     },
     {
-        "number": 194,
+        "number": 314,
         "text": "What is Newton's first law of motion?",
         "options": {
             "A": "Force equals mass times acceleration.",
@@ -2328,7 +3768,7 @@
         "explanation": "This law states that objects will not change their state of motion unless a force acts on them."
     },
     {
-        "number": 195,
+        "number": 315,
         "text": "If a ball is thrown upwards, what happens to its velocity as it rises?",
         "options": {
             "A": "It increases.",
@@ -2340,7 +3780,7 @@
         "explanation": "As the ball rises, gravity slows it down until it stops at the highest point."
     },
     {
-        "number": 196,
+        "number": 316,
         "text": "What is the unit of force in the International System of Units ?",
         "options": {
             "A": "Joule",
@@ -2352,7 +3792,7 @@
         "explanation": "The Newton (N) is the standard unit for measuring force."
     },
     {
-        "number": 197,
+        "number": 317,
         "text": "What is the freezing point of water in degrees Celsius?",
         "options": {
             "A": "-10\u00b0C",
@@ -2364,7 +3804,7 @@
         "explanation": "Water freezes at 0 degrees Celsius, the temperature at which it changes from liquid to solid."
     },
     {
-        "number": 198,
+        "number": 318,
         "text": "What instrument is used to measure temperature?",
         "options": {
             "A": "Barometer",
@@ -2376,7 +3816,7 @@
         "explanation": "A thermometer is designed to measure temperature, using liquid or digital sensors."
     },
     {
-        "number": 199,
+        "number": 319,
         "text": "At what temperature does water boil in degrees Celsius?",
         "options": {
             "A": "90\u00b0C",
@@ -2388,7 +3828,7 @@
         "explanation": "Water boils at 100 degrees Celsius, changing from liquid to gas ."
     },
     {
-        "number": 200,
+        "number": 320,
         "text": "What happens to the molecules of a substance as its temperature increases?",
         "options": {
             "A": "They move slower.",
@@ -2400,7 +3840,7 @@
         "explanation": "As temperature rises, molecules gain energy, moving faster and spreading apart."
     },
     {
-        "number": 201,
+        "number": 321,
         "text": "200 J 50 J 20 J 8 J A block is pulled along a horizontal bench at a constant velocity of 10m/s by a force of 5 N. What is the work done against friction in 5 seconds?",
         "options": {
             "A": "",
@@ -2412,7 +3852,7 @@
         "explanation": "5*40=200"
     },
     {
-        "number": 202,
+        "number": 322,
         "text": "An ideal gas of mass 100 g is stored in a rigid container. Suppose its molecules have a root-mean-square speed of 200 m s' when the gas pressure is 300 kPa, what is the volume of the container?",
         "options": {
             "A": ".22x10^-5 m^3",
@@ -2424,7 +3864,7 @@
         "explanation": ""
     },
     {
-        "number": 203,
+        "number": 323,
         "text": "final speed:5m/s distance:25m final speed:5m/s distance:50m final speed:10m/s distance:25m final speed:10m/s distance:50m A car speeds up from rest at a uniform acceleration of 2 m^-2 for 5 seconds. What is the final speed and distance travelled by the car?",
         "options": {
             "A": "",
@@ -2436,7 +3876,7 @@
         "explanation": "0+2*5=10m/s ((5)^2*2)/2=25m"
     },
     {
-        "number": 204,
+        "number": 324,
         "text": "24m 54.5m 104m 136m A stone is thrown vertically upward with a speed of 6 m/s from the top of a building. The stone takes 4s to reach the ground. What is the height of the building?",
         "options": {
             "A": "",
@@ -2448,7 +3888,7 @@
         "explanation": "6*4+0.5*-9.81*4^2=-54.48"
     },
     {
-        "number": 205,
+        "number": 325,
         "text": "An object of mass 2 kg initially travels at a constant speed of 5 m/s. A force is applied to the object such that its kinetic energy is increased by 100 J. Estimate the final speed of the object.",
         "options": {
             "A": "1.2 m/s",
@@ -2460,7 +3900,7 @@
         "explanation": "100=0.5mv^2-0.5m5^2 v^2=(2(100))/2+5^2      v=11.2m/s"
     },
     {
-        "number": 206,
+        "number": 326,
         "text": "Trolley A moving at a velocity of 5 m/s collides with trolley B which is initially at rest. After collision, they move at a common velocity of 3 m/s If the mass of trolley B is 2 kg, find the mass of trolley A.",
         "options": {
             "A": "kg",
@@ -2472,7 +3912,7 @@
         "explanation": "ma(5)+mb(0) =(ma+mb)(3) ma(5) = (ma+2)(3) 2ma = 6           ma = 3kg"
     },
     {
-        "number": 207,
+        "number": 327,
         "text": "According to Newton's First Law of Motion, an object at rest will stay at rest and an object in motion will stay in motion with the same velocity unless acted upon by:",
         "options": {
             "A": "gravity",
@@ -2484,7 +3924,7 @@
         "explanation": "Object's state of motion will remain constant unless a net or unbalanced force acts upon it."
     },
     {
-        "number": 208,
+        "number": 328,
         "text": "Which of the following is a vector?",
         "options": {
             "A": "speed",
@@ -2496,7 +3936,7 @@
         "explanation": "Velocity has direction."
     },
     {
-        "number": 209,
+        "number": 329,
         "text": "Two objects have masses m1\u200b and m2\u200b, where m1\u200b>m2\u200b. If the same force is applied to both objects, which object will experience a greater acceleration?",
         "options": {
             "A": "The object with mass m1\u200b",
@@ -2508,7 +3948,7 @@
         "explanation": "The object with the smaller mass (m2\u200b) will experience a greater acceleration for the same applied force."
     },
     {
-        "number": 210,
+        "number": 330,
         "text": "The force that opposes the motion of an object moving through a fluid (like air or water) is called:",
         "options": {
             "A": "gravity",
@@ -2520,7 +3960,7 @@
         "explanation": "Drag force is a type of friction that acts on objects moving through fluids."
     },
     {
-        "number": 211,
+        "number": 331,
         "text": "Which of the following scenarios demonstrates Newton's Third Law of Motion?",
         "options": {
             "A": "A car accelerates when the driver presses the gas pedal",
@@ -2532,7 +3972,7 @@
         "explanation": "Action reaction pair."
     },
     {
-        "number": 212,
+        "number": 332,
         "text": "Which of the following processes release latent heat?",
         "options": {
             "A": "melting",
@@ -2544,7 +3984,7 @@
         "explanation": "the question ask for releases latent heat , so the answer not A, B, and D"
     },
     {
-        "number": 213,
+        "number": 333,
         "text": "A sealed container holds a gas at 300K. If the gas is heated so that its pressure increases from 60kPa to 180kPa, what is its final temperature? Assume the volume of the gas is fixed.",
         "options": {
             "A": "36K",
@@ -2556,7 +3996,7 @@
         "explanation": "60/300=180/T T=900K"
     },
     {
-        "number": 214,
+        "number": 334,
         "text": "A sealed syringe is filled with 30cm3 of air at a temperature of 29\u00b0C. The syringe is cooled to 4\u00b0C in a freezer. What is the new volume of the air? Assume the air pressure inside the syringe remains constant.",
         "options": {
             "A": "4.14cm3",
@@ -2568,7 +4008,7 @@
         "explanation": "30/(29+273)=V/(4+273) V=27.5cm3"
     },
     {
-        "number": 215,
+        "number": 335,
         "text": "A sealed syringe contains 80cm3 of air at a temperature of 27\u00b0C and a pressure of 100kPa. When the piston is quickly pushed inwards to reduce the volume to 70cm3, the temperature rises to 33\u00b0C.  What is the new pressure?",
         "options": {
             "A": "117kPa",
@@ -2580,7 +4020,7 @@
         "explanation": "100(80)/(27+273)=P(70)/(33+273) P=117kPa"
     },
     {
-        "number": 216,
+        "number": 336,
         "text": "A sealed can of volume 350cm3 contains an ideal gas at 115kPa and 20\u00b0C. What is the number of moles of gas in the can? Take R to be 8.31 J mol-1 K-1.",
         "options": {
             "A": "16.5 mol",
@@ -2592,7 +4032,7 @@
         "explanation": "pV=nRT n=pV/RT=(115*10^3)(350*10^-6)/8.31(20+273) n=0.0165 mol"
     },
     {
-        "number": 217,
+        "number": 337,
         "text": "A man is pushing a car but the car does not move. If the pushing force on the car by the man is the action force, what is the reaction force?",
         "options": {
             "A": "the force acting on the man by the ground",
@@ -2604,7 +4044,7 @@
         "explanation": "the pushing force on the car by the man, so the answer is not A or B. Every action is an equal and opposite reaction, so the answer is C."
     },
     {
-        "number": 218,
+        "number": 338,
         "text": "The masses of blocks A and B are 6 kg and 4 kg respectively. They are connected by a string on the smooth horizontal plane. If A is pulled by a horizontal force of 20 N and the two blocks move to the right together, what is the tension in the string?",
         "options": {
             "A": "6N",
@@ -2616,7 +4056,7 @@
         "explanation": "Fnet = ma\t\t\t\t\tT=6*2 a=2m s^-2\t\t\t\tT=12N"
     },
     {
-        "number": 219,
+        "number": 339,
         "text": "A puppy pulls a towel and remains stationary on the ground. The towel makes an angle of 30\u00b0 to the horizontal and the tension in it is 10N. Find the friction acting on the puppy by the ground?",
         "options": {
             "A": "5N",
@@ -2628,7 +4068,7 @@
         "explanation": "10 cos 30\u00b0 =8.66 N"
     },
     {
-        "number": 220,
+        "number": 340,
         "text": "A spaceship of mass 120 kg flies forwards in outer space. Its rocket is fired to speed up the spaceship from 50 m s^-1 to 60 m s^-1 in 20 s. Assume that the power provided by the rocket is constant and the resistive force acting on the spaceship is negligible. Find the power of the rocket.",
         "options": {
             "A": "33 W",
@@ -2640,7 +4080,7 @@
         "explanation": "\u00bd mu^2+Pt=\u00bd mv^2 P=\u00bd *120*(60^2-50^2)/20 P=3300W"
     },
     {
-        "number": 221,
+        "number": 341,
         "text": "Jason of mass 50 kg holds a 2 kg ball and skates forwards at 3 m s^-1 . Then he throws the ball so that it moves forwards at 10 m s^-1. What is his velocity after throwing the ball?",
         "options": {
             "A": "1.61 m s^-1",
@@ -2652,7 +4092,7 @@
         "explanation": "50*3+2*3 =50*V+2*10 V=136/50 V=2.72 m s^-1"
     },
     {
-        "number": 222,
+        "number": 342,
         "text": "Which scenario best demonstrates Newton's First Law of Motion?",
         "options": {
             "A": "A moving car suddenly brakes, causing passengers to lean forward.",
@@ -2664,7 +4104,7 @@
         "explanation": "Newton's First Law states that an object with no net force acting on it will maintain constant velocity (including rest). Option D satisfies this condition. A demonstrates inertia but does not directly describe the law; B and C involve forces changing motion (Second/Third Laws)."
     },
     {
-        "number": 223,
+        "number": 343,
         "text": "A 2 kg object accelerates at \\( 3 \\, \\text{m/s}^2 \\). What is the net force acting on it?",
         "options": {
             "A": "1.5N",
@@ -2676,7 +4116,7 @@
         "explanation": "By Newton's Second Law: F = ma = 2kg * 3m/s^2 = 6N."
     },
     {
-        "number": 224,
+        "number": 344,
         "text": "Which statement about momentum is correct?",
         "options": {
             "A": "Momentum is a scalar.",
@@ -2688,7 +4128,7 @@
         "explanation": "Momentum p = mv. Doubling velocity doubles momentum (C correct). A is false (momentum is a vector); B is false (conserved in all isolated systems); D is false (momentum aligns with velocity, not acceleration)."
     },
     {
-        "number": 225,
+        "number": 345,
         "text": "A 5 kg box is pushed 10 m horizontally with an applied force of 20 N against 5 N friction. What is the work done by the applied force?",
         "options": {
             "A": "100 J",
@@ -2700,7 +4140,7 @@
         "explanation": "Work done by the applied force: W = Fd = 20N * 10m= 200J."
     },
     {
-        "number": 226,
+        "number": 346,
         "text": "A stone falls freely from 20 m height (air resistance neglected). What is its speed upon impact?",
         "options": {
             "A": "10 m/s",
@@ -2712,7 +4152,7 @@
         "explanation": "Using energy conservation: v^2 = u^2 + 2as v^2 = 2 * 9.81 * 20 v = 19.8ms^-1"
     },
     {
-        "number": 227,
+        "number": 347,
         "text": "A 0.5 kg ball hits a wall at 10 m/s and rebounds at 8 m/s. What is its momentum change?",
         "options": {
             "A": "1 kg\u00b7m/s",
@@ -2724,7 +4164,7 @@
         "explanation": "Momentum change: p = m(v - u) p = 0.5(-8 - 10) p = -9kg m/s."
     },
     {
-        "number": 228,
+        "number": 348,
         "text": "A car travels at a constant 60 km/h. Which statement is true?",
         "options": {
             "A": "Engine force > friction.",
@@ -2736,7 +4176,7 @@
         "explanation": "Constant velocity implies zero net force. The engine force balances friction."
     },
     {
-        "number": 229,
+        "number": 349,
         "text": "According to Boyle\u2019s Law, if a gas is compressed from 4 m\u00b3 to 2 m\u00b3 in constant temperature, how does its pressure change?*",
         "options": {
             "A": "Halved",
@@ -2748,7 +4188,7 @@
         "explanation": "Boyle\u2019s Law states  P_1 V_1 = P_2 V_2. Halving the volume doubles the pressure."
     },
     {
-        "number": 230,
+        "number": 350,
         "text": "A gas in a rigid container has an initial pressure of 100 kPa at 20\u00b0C. If the temperature rises to 40\u00b0C, what is the new pressure?",
         "options": {
             "A": "93.3 kPa",
@@ -2760,7 +4200,7 @@
         "explanation": "Using Charles\u2019s Law P_1 / T_1 =P_2 / T_2 P_2 = P_1 * T_2 / T_1 P_2 = 100kPa * 313 \\ 293 P_2  = 106.8kPa."
     },
     {
-        "number": 231,
+        "number": 351,
         "text": "A balloon\u2019s gas has a pressure of 200 kPa. If its volume expands to 4\u00d7 the original in constant temperature, what is the new pressure?",
         "options": {
             "A": "50 kPa",
@@ -2772,7 +4212,7 @@
         "explanation": "By Boyle\u2019s Law: P_2 = P_1 * V_1 / V_2 P_2 = 200 * V / 4V P_2 = 50kPa"
     },
     {
-        "number": 232,
+        "number": 352,
         "text": "Match each observation (1\u20133) to the correct gas law (A\u2013C): 1.When cooled, the gas volume decreases at constant pressure. 2.When heated, the gas pressure increases at constant volume. 3.When compressed, the gas pressure increases at constant temperature.",
         "options": {
             "A": "1:a  2:b  3:c",
@@ -2784,7 +4224,7 @@
         "explanation": "1. Volume decreases when cooled (constant P) 2.Pressure increases when heated (constant V) 3.Pressure increases when compressed (constant T)"
     },
     {
-        "number": 233,
+        "number": 353,
         "text": "According to Newton\u2019s law of motion, if a stone in space is thrown out at the velocity of 20 ms^-1, what is its speed when 1000 thousand years have passed?",
         "options": {
             "A": "0 m/min",
@@ -2796,7 +4236,7 @@
         "explanation": "Anyone who gets this question wrong has not attended a single lesson."
     },
     {
-        "number": 234,
+        "number": 354,
         "text": "Crane A is lifting a 10 kg load by 10m with constant velocity. What is the gain in potential energy?",
         "options": {
             "A": "00J",
@@ -2808,7 +4248,7 @@
         "explanation": "gain in P.E.= (change in height)*(acceleration due to gravity)*(mass)"
     },
     {
-        "number": 235,
+        "number": 355,
         "text": "Crane B lifted the same load along a frictionless slope in the same amount of time with constant velocity. Which of the following is correct?",
         "options": {
             "A": "rane B does more work than Crane A",
@@ -2820,7 +4260,7 @@
         "explanation": "By pythagoras' theorem, the length of the hypotenuse must be longer than the other two sides."
     },
     {
-        "number": 236,
+        "number": 356,
         "text": "What if the slope is not frictionless? Which of the following is correct?",
         "options": {
             "A": "rane B does more work than Crane A",
@@ -2832,7 +4272,7 @@
         "explanation": "A larger force is needed to overcome the friction. So with a large force by W=fs, given the same s, W is larger."
     },
     {
-        "number": 237,
+        "number": 357,
         "text": "Which of the following regarding the kinetic gas theory and general gas law is correct?",
         "options": {
             "A": "hen the volume of the container decreases, the gas molecules collide with the walls of the container more violently",
@@ -2844,7 +4284,7 @@
         "explanation": "Pressure=Force/Area Force is required to cause change of momentum. So the change in momentum of the gas particles when colliding with the walls of the container creates gas pressure"
     },
     {
-        "number": 238,
+        "number": 358,
         "text": "A block slides down from a slope 10 m high and hits another block of the same mass at the end of the slope. The collision is completely inelastic. The blocks travel up another slope of the height of 2m. What is the loss of energy? Express the answer in terms of m, the mass of one block.",
         "options": {
             "A": "0m",
@@ -2856,7 +4296,7 @@
         "explanation": "P.E. at the start- P.E. at the end"
     },
     {
-        "number": 239,
+        "number": 359,
         "text": "Which of the following is correct?",
         "options": {
             "A": "he mass of the block in a lift decelerating downwards decreases",
@@ -2868,7 +4308,7 @@
         "explanation": "Apparent weight is the normal reaction force exerted by the floor on the person. When the lift is accelerating upwards, the man is also accelerating upwards so an upward force provided by the floor is needed."
     },
     {
-        "number": 240,
+        "number": 360,
         "text": "A space battleship fires a cannon ball of 10 kg with its railgun pointing forward at a velocity of 11.2 km/s. What is the exhaust velocity of gas ejected out of the thrusters at the back in order to keep the space battleship stationary if the mass of gas ejected is 1.34 kg?",
         "options": {
             "A": "35 km/s",
@@ -2880,7 +4320,7 @@
         "explanation": "v= 11.2*1000*10/1.34 m/s"
     },
     {
-        "number": 241,
+        "number": 361,
         "text": "Freedom Gundam fires its thrusters for 1 second to evade a missile from the enemy. When it fires its thrusters, the body of it is perpendicular to horizontal. The thruster at its back makes a 30\u02da angle to its body. The mass of Freedom Gundam is 71500 kg and 5 kg of gas is ejected out of the engine at 20 km/s. What is the change in vertical velocity? Assume it is not affected by any gravitational fields.",
         "options": {
             "A": ".4 m/s",
@@ -2892,7 +4332,7 @@
         "explanation": "\u2206V = ((20000*5)/71500)*cos30\u02da"
     },
     {
-        "number": 242,
+        "number": 362,
         "text": "a driver driving at 30m/s on a straight path and he sees a stone 100 m in front of him. To avoid crushing his car, he needs to stop in front of the stone. To note that there is a reaction time of the driver. He stopped his car in front of the stone in 6s after his car started decelerating. What is the magnitude of deceleration of the car and the reaction time respectively?",
         "options": {
             "A": "m/s\u00b2,0.66s",
@@ -2904,7 +4344,7 @@
         "explanation": "From the question,we can know that initial velocity=30m/s,time=6s,final velocity=0. By v=u+at, we can know that the deceleration=5m/s\u00b2. By v\u00b2=u\u00b2+2as, we can know that the distance traveled after starting deceleration is 90m. 100-90=10m is the distance traveled in reaction time. 10/30=0.33s"
     },
     {
-        "number": 243,
+        "number": 363,
         "text": "Two balls X and Y are 3 kg and 5 kg respectively.  X is moving toward the right to Y with a velocity of 5m/s when Y is remaining at rest. When X and Y collide, Y move towards the right with a velocity of 4m/s. Assume 2 balls are moving on a smooth surface and the total momentum is conserved, what is the velocity of X after colliding?",
         "options": {
             "A": ".67m/s(rightwards)",
@@ -2916,7 +4356,7 @@
         "explanation": "According to p=mv and conservation of total momentum, 3(5)+5(0)=5(4)+3v         v=-1.67m/s"
     },
     {
-        "number": 244,
+        "number": 364,
         "text": "a 5N pushing force is acted on a 2kg block and the block is moving rightward. Assume the block is moving on a smooth surface and there is no other force acting on it. What is the acceleration of the block?",
         "options": {
             "A": ".5m/s\u00b2(leftward)",
@@ -2928,7 +4368,7 @@
         "explanation": "By Fnet=ma, 5=2a,a=2.5. The block is moving rightward and so it gets a 2.5m/s\u00b2(rightward) acceleration but not 3m/s\u00b2 or leftward acceleration."
     },
     {
-        "number": 245,
+        "number": 365,
         "text": "Identical blocks X and Y are connected by a string, block X is on the left of block Y and they are placed on a smooth surface. Block X is pulled towards left by a 6N force horizontally while Block Y is pulled towards right by a 10N force horizontally . The string is inextensible. Find the magnitude of the net force acting on block X and Y respectively by considering the system of objects.",
         "options": {
             "A": "an\u2019t determine when mass is not given.",
@@ -2940,7 +4380,7 @@
         "explanation": "we can find the net force by using Fnet=ma even if the mass is not given. Let the mass of X and Y be m kg. By considering the system of objects, 10-6=2ma a=2/m. Net force of Y=2/m\u00b7m=2N   Net force of X=2/m\u00b7m=2N"
     },
     {
-        "number": 246,
+        "number": 366,
         "text": "Which of the following can be a unit of work? kgm\u00b2/s\u00b2 J/s J m",
         "options": {
             "A": "1),(4)",
@@ -2952,7 +4392,7 @@
         "explanation": "Work done=F\u00b7displacement The unit of work is Nm or J By considering Fnet=ma Nm can also express in kgm\u00b2/s\u00b2"
     },
     {
-        "number": 247,
+        "number": 367,
         "text": "Wil and Jeremy are running on the playground. The mass of Jeremy is wil\u2019s times 1.5 and they have the same KE. What is the ratio of the speed of wil to Jeremy?",
         "options": {
             "A": ":\u221a1.5",
@@ -2964,7 +4404,7 @@
         "explanation": "Let wil\u2019s weight be m kg,Jeremy\u2019s be 1.5m kg 0.5mv\u00b2=0.5\u00b71.5mu\u00b2         v\u00b2=1.5u\u00b2          v:u=\u221a1.5:1"
     },
     {
-        "number": 248,
+        "number": 368,
         "text": "An athlete of mass 65 kg jumps on a trampoline.  A, The lowest position she reached where the trampoline is fully stretched is 30 cm lower than B,  the position when the trampoline is not stretched and her speed upward is 3.5m/s. Find the elastic PE stored in the trampoline when she is at A. Assume the total mechanical energy are conserved.",
         "options": {
             "A": "88J",
@@ -2976,7 +4416,7 @@
         "explanation": "when she is at A, the elastic PE is at max, GPE=0,KE=0. When she is at B the elastic PE=0, GPE=65\u00b79.81\u00b70.3, KE= 0.5\u00b765\u00b73.5\u00b2 Total mechanical energy is conserved, elastic PE at A=65\u00b79.81\u00b70.3+0.5\u00b765\u00b73.5\u00b2=589.42\u300b589J"
     },
     {
-        "number": 249,
+        "number": 369,
         "text": "A box of mass 15 kg is acted on by a force of 70N. The box is moving with a constant velocity of 5m/s on a rough horizontal surface. If all the applied force suddenly disappeared, what would be the magnitude of the net force on the box?",
         "options": {
             "A": "N",
@@ -2988,7 +4428,7 @@
         "explanation": "The box is moving with a constant velocity on a rough surface, which means that Fnet=0, friction applied on the box=70N. When applied force of 70N disappeared , in that instant friction of 70N is acting on the box, so the net force of the box is 70N at that instant."
     },
     {
-        "number": 250,
+        "number": 370,
         "text": "The pressure of a fixed volume of an ideal gas is 150kpa and its temperature is 30\u00b0C. The gas is then heated to 50\u00b0C, what will be the new pressure of the gas?",
         "options": {
             "A": "00kpa",
@@ -3000,7 +4440,7 @@
         "explanation": "since P/T=constant,150/(30+273)=p/(50+273) p=159.9\u300b160kpa"
     },
     {
-        "number": 251,
+        "number": 371,
         "text": "A van of mass 1000kg decelerates uniformly from 40ms^[-1] to stop in 50m along a horizontal road. Find the friction acting on the car.",
         "options": {
             "A": "000N",
@@ -3012,7 +4452,7 @@
         "explanation": "KE1 +PE1 =KE2+PE2+Workdone by friction \u00bd 1000*40^[2]=50f F=16000N"
     },
     {
-        "number": 252,
+        "number": 372,
         "text": "On a smooth surface, ball A and ball B collide. A of 100g moves at 3ms^[-1] towards right and B of 50g moves at 5ms ^[-1] both just right before collision.Which of the following is/are the possible results . 1)A stops 2)B stops 3)Both moves at 0.33 ms^[-1] towards the right after collision",
         "options": {
             "A": "only",
@@ -3024,7 +4464,7 @@
         "explanation": "Initial momentum: Take rightwards as positive (0.1*3)+(0.05*-5)=0.05kg m/s As it is an inelastic collision,if both balls were to stop completely after the collision, the total final momentum would be zero. Since momentum is conserved, if the initial momentum is not zero, the final momentum cannot be zero.And none of the ball will stop because the final velocity is not zero. 0.05=(0.1+0.05)v V=0.33m/s (rightwards) Only 3 is correct"
     },
     {
-        "number": 253,
+        "number": 373,
         "text": "Water enters and leaves the hose at the same speed 5ms and 800g water flows out of hose each second. The child bends the hose so that he could pour the water into the pool. The water flows from the ground to the pool with the hose rolled up for few times. Which of the following statements is true.",
         "options": {
             "A": "he momentum of water is conserved.",
@@ -3036,7 +4476,7 @@
         "explanation": "because the direction of velocity of water has changed Net force acting on water is equal to the rate of change in momentum of water.There is change in momentum of water, there is net force. There is force acting on the hose , by Newton third law,as the hose exert force on water, water exert a force on hose too."
     },
     {
-        "number": 254,
+        "number": 374,
         "text": "Two containers containing the same ideal gas, Container A is 50m^[3] ,container B is 10m^[3]. They are connected by a tube with a tap closed initially. Which of the following quantity will become the same after opening the tap? The number of moles of gas in each container The number molecules of gas in each container The air pressure in each container",
         "options": {
             "A": "only",
@@ -3048,7 +4488,7 @@
         "explanation": "The gas will redistribute  based on the volume of containers, so neither the number of moles nor the molecules will become the same.However after opening the tap, the pressure in each container will be equalized."
     },
     {
-        "number": 255,
+        "number": 375,
         "text": "A man stands on a weighing scale inside a lift. The scale reads 690 N. What will the scale read if the lift accelerates upwards at 3ms^[-1] ?",
         "options": {
             "A": "50N",
@@ -3060,7 +4500,7 @@
         "explanation": "690/9.81 =70.336 kg Fnet=ma W=70.4*(9.81+3) W=901.8N"
     },
     {
-        "number": 256,
+        "number": 376,
         "text": "Match each observation (1\u20133) to the correct gas law (A\u2013C): 1.When temperature decreased, the gas volume decreases at constant pressure. 2.When compressed, the gas pressure increases at constant temperature. 3.When heated, the gas pressure increases at constant volume.",
         "options": {
             "A": "1:a  2:b  3:c",
@@ -3072,7 +4512,7 @@
         "explanation": "1. Volume decreases when cooled (constant P) 2.Pressure increases when compressed (constant T) 3.Pressure increases when heated (constant V)"
     },
     {
-        "number": 257,
+        "number": 377,
         "text": "A cylinder contains an ideal gas at 27\u00b0c with a pressure of 200 kPa. If the temperature rises to 150 \u00b0c while the volume remains constant, what is the new pressure of the gas?",
         "options": {
             "A": "182 kPa",
@@ -3084,7 +4524,7 @@
         "explanation": ": 200/(273+27)=  P/ (273+150)"
     },
     {
-        "number": 258,
+        "number": 378,
         "text": "A beam with length of 6m , self weight if 2kg  is balanced at its pivot. A 3 kg mass is placed 1 meter to the left of the pivot. What mass must be placed 3 meters to the right of the pivot to keep the beam in equilibrium?",
         "options": {
             "A": "kg",
@@ -3096,7 +4536,7 @@
         "explanation": "Total\u00a0Momentclockwise=Moment Beam+Moment left=58.86+29.43=88.29(nm) Moment right\u200b=m\u00d79.81\u00d73=29.43m(nm) Anticlockwise =clockwise 88.29/29.43=m M=3 kg"
     },
     {
-        "number": 259,
+        "number": 379,
         "text": "A rubber ball is thrown to the ground and bounces . Which of the following statements is/are correct?",
         "options": {
             "A": "The momentum of the ball is conserved.",
@@ -3108,7 +4548,7 @@
         "explanation": "B:Momentum is always conserved in a system . There is no extra external energy act on"
     },
     {
-        "number": 260,
+        "number": 380,
         "text": "Which of the following statements are incorrect",
         "options": {
             "A": "ressure is directly proportional to Volume",
@@ -3120,7 +4560,7 @@
         "explanation": "it is because pressure against the volume is a curve plotted on the graph."
     },
     {
-        "number": 261,
+        "number": 381,
         "text": "What is not a definition of an ideal gas?",
         "options": {
             "A": "ll the molecules are identical and have the same mass.",
@@ -3132,7 +4572,7 @@
         "explanation": "It is because all the molecules should be in continuous random motion for ideal gas."
     },
     {
-        "number": 262,
+        "number": 382,
         "text": "Mr. Hung finds out that the meat balls get BIGGER when he puts them in the hotpot. Suppose the meatball at 0 degree can trap 1cm3 of air and no air is leaked when heated. Besides, the pressure is also unchanged.What is the volume of the air when it is heated to 100degree.",
         "options": {
             "A": ".29cm3",
@@ -3144,7 +4584,7 @@
         "explanation": "By using Charles's Law, which states that the volume of a gas is directly proportional to its temperature when pressure is held constant,we can find the V1/T1 =V2/T2"
     },
     {
-        "number": 263,
+        "number": 383,
         "text": "Which scenario demonstrates the concept of work done on an object?",
         "options": {
             "A": "ushing an extreme heavy object on rough surface",
@@ -3156,7 +4596,7 @@
         "explanation": "Work is the energy transferred due to the action of force over a displacement, as in lifting or pushing the box. Holding the box stationary (B) or (A) involves no displacement, so no work is done."
     },
     {
-        "number": 264,
+        "number": 384,
         "text": "If two objects collide elastically, which of the following statements is true?",
         "options": {
             "A": "inetic energy is lost",
@@ -3168,7 +4608,7 @@
         "explanation": "In elastic collisions, both momentum and kinetic energy are conserved. A is incorrect because kinetic energy is not lost; B is wrong as kinetic energy is also conserved, and D misrepresents energy conversion in elastic collisions."
     },
     {
-        "number": 265,
+        "number": 385,
         "text": "When an explosion occurs, 2 objects with different directions and masses fly away. In this situation,which of the following sum is 0?",
         "options": {
             "A": "omentum",
@@ -3180,7 +4620,7 @@
         "explanation": "During explosion only momentum is conserved and at the beginning  the momentum is 0, showing that after explosion the momentum is also 0."
     },
     {
-        "number": 266,
+        "number": 386,
         "text": "In an inelastic collision, what happens to the momentum of the system?",
         "options": {
             "A": "It is conserved",
@@ -3192,7 +4632,7 @@
         "explanation": "In inelastic collisions,momentum is transferred also. B and C are incorrect as momentum will not be lost and D misrepresents energy transformation."
     },
     {
-        "number": 267,
+        "number": 387,
         "text": "In an isolated system, what MUST BE TRUE about the total energy?",
         "options": {
             "A": "t can change forms but remains constant",
@@ -3204,7 +4644,7 @@
         "explanation": "The law of conservation of energy states that energy cannot be created or destroyed but can transform from one form to another. B is incorrect as energy cannot be created or destroyed; C is wrong because total energy does not inherently increase, and D is incorrect as external forces do not affect total energy in an isolated system."
     },
     {
-        "number": 268,
+        "number": 388,
         "text": "A sample of gas occupies a volume of 1.47m3 at a pressure of 200 kPa and a temperature of 25 degree. What is the total KE of the gas molecules?",
         "options": {
             "A": "67000J",
@@ -3216,7 +4656,7 @@
         "explanation": "Using The gas law we find the no. of mole is 118.72with n=PV/RT and use second law KE=3/2nRT getting 441000J"
     },
     {
-        "number": 269,
+        "number": 389,
         "text": "Trolley A accelerates to right and crashes on Trolly B which has a constant velocity to right. They then stick together and move to the right with the same speed. What kind of collision is it?",
         "options": {
             "A": "ompletely inelastic collision",
@@ -3228,7 +4668,7 @@
         "explanation": "they have the same direction ."
     },
     {
-        "number": 270,
+        "number": 390,
         "text": "which is/are the equation(s) of the total kinetic energy of a gas? 1)1/2Nmc2 2) 3/2 PV 3) 3/2 nRT",
         "options": {
             "A": ",3",
@@ -3240,7 +4680,7 @@
         "explanation": "total kinetic energy =3/2nRT= 1/2Nmc2, and PV=nRT so 2 is also correct"
     },
     {
-        "number": 271,
+        "number": 391,
         "text": "The pressure and temperature of a gas is 110 kpa and 2C respectively. When it is heated, the temperature becomes 7C while the pressure do not change. What does the volume change?",
         "options": {
             "A": "ncrease",
@@ -3252,7 +4692,7 @@
         "explanation": "PV/T= constant. When T increases, V increases."
     },
     {
-        "number": 272,
+        "number": 392,
         "text": "when pressure of a gas decreases, which of the following is incorrect? 1.Total kinetic energy conserved 2.R increases constantly 3.temperature decreases",
         "options": {
             "A": ",2",
@@ -3264,7 +4704,7 @@
         "explanation": "KE increases, while R is a constant. Temperature will decrease."
     },
     {
-        "number": 273,
+        "number": 393,
         "text": "There is a hot air balloon. It has a fixed volume of 500m3. The temperature before and after it rises are 25C and 60C respectively. The pressure before and after it rises are 50kPa and 46kPa respectively. Find the number of molecules before and after it rises.",
         "options": {
             "A": "075;0 moles",
@@ -3276,7 +4716,7 @@
         "explanation": "PV= nRT (500)(50000)=n8.31(298) (500)(46000)=n(8.31)(333)"
     },
     {
-        "number": 274,
+        "number": 394,
         "text": "A car weighted 500N travelling with a speed of 20m/s on a highway and crashed to a bus weighted 1000N that was stopped beside the road.Neglecting the friction of the bus then moved 10 metres after a second, what is the velocity when the car hit the bus?",
         "options": {
             "A": "m/s",
@@ -3288,7 +4728,7 @@
         "explanation": "Conservation of momentum"
     },
     {
-        "number": 275,
+        "number": 395,
         "text": "A car was travelling at 10m/s, the driver saw a dog on the road and applied the brake with in 0.394s, the car finally came to a stop after 10s, what is the acceleration of the car?",
         "options": {
             "A": "",
@@ -3300,7 +4740,331 @@
         "explanation": "reaction time is included in the total time"
     },
     {
-        "number": 276,
+        "number": 396,
+        "text": "Which of the following make use of electromagnet?",
+        "options": {
+            "A": "lectric bell",
+            "B": "elephone receiver",
+            "C": "lectromagnetic crane",
+            "D": "ompass"
+        },
+        "correct_answer": "",
+        "explanation": "no electricity is needed for compass"
+    },
+    {
+        "number": 397,
+        "text": "A charged particle is deflected by a magnetic field, which of the following can increase the time taken for the particles to travel through the magnetic field?",
+        "options": {
+            "A": "Decrease the speed of particle",
+            "B": "ncrease the strength of magnetic field",
+            "C": "ncrease the charge of particle",
+            "D": "ncrease the mass of the particle"
+        },
+        "correct_answer": "D",
+        "explanation": "t=\u5140m/Bq , when mass increase, time increase."
+    },
+    {
+        "number": 398,
+        "text": "Given that the mass of Earth is 6.0*10^24 kg. Find the radius of a parking satellite orbiting above the Earth.",
+        "options": {
+            "A": ".5*10^7",
+            "B": ".5*10^7",
+            "C": ".0*10^7",
+            "D": ".23*10^7"
+        },
+        "correct_answer": "D",
+        "explanation": "(6.67*10^(11)) (6.0*10^(24))/ r^3 = (2\u5140/24*3600)^2"
+    },
+    {
+        "number": 399,
+        "text": "Which of the following statements concerning satellites orbiting around Earth is/are correct? (1) A satellite must be far away from the Earth so that it is not affected by the Earth\u2018s gravitational field. (2)There is a communication satellite directly above Hong Kong. (3)There is more than one parking orbit above the Earth\u2019s surface for communication satellites. (4)The speed of the parking satellite depends on the mass of the satellite.",
+        "options": {
+            "A": "1), (2), (3)",
+            "B": "4)",
+            "C": "2), (4)",
+            "D": "one of the above statements is correct."
+        },
+        "correct_answer": "D",
+        "explanation": "(1) is wrong as the satellite is orbiting around the Earth, (2) is wrong as HK isn\u2018t at equator, (3) is wrong as only 1 orbit at equator, (4) is wrong as speed is independent of mass."
+    },
+    {
+        "number": 400,
+        "text": "An astronaut inside a spacecraft orbiting around the Earth experiences weightlessness, is the resultant force acting on the astronaut is zero?",
+        "options": {
+            "A": "DK (can\u2018t determine)",
+            "B": "aybe (I am not sure)",
+            "C": "es",
+            "D": "o"
+        },
+        "correct_answer": "D",
+        "explanation": "net force = mg, mg is not 0"
+    },
+    {
+        "number": 401,
+        "text": "The gravitational field strength g at the surface of a planet is 2.97 N kg^-1 . The radius of the planet is 2025 km, what is the gravitational field strength at a radius of 3025 km from the centre of the planet.",
+        "options": {
+            "A": "6 N kg^-1",
+            "B": "28 N kg^-1",
+            "C": "496 N kg^-1",
+            "D": "1.33 N kg^-1"
+        },
+        "correct_answer": "D",
+        "explanation": "(2025/3025)^2 * 2.97"
+    },
+    {
+        "number": 402,
+        "text": "Which of the following statements is false?",
+        "options": {
+            "A": "eta radiation is streams of negatively charged electrons",
+            "B": "eta radiation has a weaker ionising power than alpha radiation",
+            "C": "amma has a stronger penetrating power than alpha yet it can\u2019t pass through 25mm of lead",
+            "D": "lpha radiation is much heavier than beta radiation"
+        },
+        "correct_answer": "",
+        "explanation": "gamma radiation can\u2019t pass through lead completely yet some of it can pass through"
+    },
+    {
+        "number": 403,
+        "text": "which type of radiation is neutral in nature?",
+        "options": {
+            "A": "lpha",
+            "B": "eta",
+            "C": "amma",
+            "D": "ll of the above"
+        },
+        "correct_answer": "",
+        "explanation": "alpha is positively charged and beta is negatively charged"
+    },
+    {
+        "number": 404,
+        "text": "When alpha and beta radiation travel in an electric field, alpha radiation:",
+        "options": {
+            "A": "eflected by a much larger amount than beta in electric field as it has a smaller mass",
+            "B": "eflected by a much larger amount than beta in electric field as it holds larger amount of charge",
+            "C": "eflected by a much smaller amount than beta in electric field as it has a larger mass",
+            "D": "eflected by a much smaller amount than beta in electric field as it holds smaller amount of charge"
+        },
+        "correct_answer": "",
+        "explanation": "the mass of an alpha particle is about 7300 times if a beta particle hence it deflected by a smaller amount than beta particle."
+    },
+    {
+        "number": 405,
+        "text": "Which of the following statements is true?",
+        "options": {
+            "A": "hen the radioactive source is outside the human body, gamma radiation is the most damaging as it can penetrate tissues deep in the body",
+            "B": "hen the radioactive source is inside the human body, gamma radiation is harmless as it has a weak ionising power.",
+            "C": "ating 100 bananas per day will cause harm to human health as it gives out ionising radiation.",
+            "D": "he effects of radiation are not accumulative"
+        },
+        "correct_answer": "",
+        "explanation": "B is wrong as gamma radiation is only relatively harmless. C is wrong as eating 100 bananas will only give 0.01mSv and no human health effects demonstrated. D is wrong as the effects of radiation are accumulative"
+    },
+    {
+        "number": 406,
+        "text": "When thorium-234 which has an atomic no of 90 and mass no of 234 emits an alpha particle and a beta radiation, what are the new atomic no and mass no?",
+        "options": {
+            "A": "tomic no:88  mass no:230",
+            "B": "tomic no:89  mass no:230",
+            "C": "tomic no:89  mass no:229",
+            "D": "tomic no:90  mass no:230"
+        },
+        "correct_answer": "",
+        "explanation": "after alpha decay, atomic no=88 and mass no = 230. After beta decay, atomic no=89 and mass no= 230"
+    },
+    {
+        "number": 407,
+        "text": "Which of the following statements is true?",
+        "options": {
+            "A": "he resistivity increase with temperature",
+            "B": "he longer the wire, the larger the resistance",
+            "C": "he larger the current, the higher the resistivity",
+            "D": "he thicker the wire, the higher the resistivity"
+        },
+        "correct_answer": "B",
+        "explanation": "resistivity depends on the type of material but not the dimensions(length and thickness), ACD is wrong."
+    },
+    {
+        "number": 408,
+        "text": "Which of the following statements is false?",
+        "options": {
+            "A": "a fuse should be connected in series with the device that it protects.",
+            "B": "he fuse in an appliance should have a fuse value the same as the normal operating current.",
+            "C": "fuse must be placed in the live wire.",
+            "D": "fuse will blow when a short circuit appears."
+        },
+        "correct_answer": "",
+        "explanation": "the fuse in an appliance should have a fuse value slightly higher than the normal operating current."
+    },
+    {
+        "number": 409,
+        "text": "what is the use of an earth wire?",
+        "options": {
+            "A": "engthening the path from the metal body to the earth",
+            "B": "revent people from getting an electric shock",
+            "C": "llowing current to flow for appliance operation",
+            "D": "eplacing the neutral wire when it is broken"
+        },
+        "correct_answer": "",
+        "explanation": "it shortens the path from the metal body to the earth, A is wrong. No current passes through the earth wire when the appliance is in normal use, C is wrong. Earth wire is only for safety use, it can\u2019t replace neutral wire, D is wrong."
+    },
+    {
+        "number": 410,
+        "text": "a lamp is rated at \u201c220V, 100W\u201d. What is the cost of electricity for operating it at 110V for 400 hours?(the cost of electricity is $1.1 per kWh)",
+        "options": {
+            "A": "5.5",
+            "B": "7.7",
+            "C": "11",
+            "D": "22"
+        },
+        "correct_answer": "",
+        "explanation": "R=220^2/100=484. When V=110, P=110^2/484=25W=0.025kWh. Cost=0.025*1.1*400=$11"
+    },
+    {
+        "number": 411,
+        "text": "an electromagnet can be made stronger by:",
+        "options": {
+            "A": "ompressing the coil to reduce length",
+            "B": "nserting an aluminium core into the coil",
+            "C": "eplace the resistor with another one with higher resistance",
+            "D": "ecrease the voltage output the power supply"
+        },
+        "correct_answer": "",
+        "explanation": "the larger the current, the stronger the electromagnet, C and D is wrong. A Soft-iron core should be inserted instead of an aluminium core, inserting an aluminium core will not strengthen the electromagnet, B is wrong. Compressing the coil to reduce length will increase the number of turns per unit length, A is correct."
+    },
+    {
+        "number": 412,
+        "text": "Which of the following can be attracted by a positively charged object? a positively charged object a negatively charged object a neutral object",
+        "options": {
+            "A": "(2) only",
+            "B": "(1) and (2)",
+            "C": "(2) and (3)",
+            "D": "(1) and (3)"
+        },
+        "correct_answer": "C",
+        "explanation": "both a negatively charged object and a neutral object can be attracted by a positively charged object while two positively charged objects repel"
+    },
+    {
+        "number": 413,
+        "text": "which of the following is a characteristic of sound? it travels faster in liquid than in air the range of frequencies detectable by the human ear is 10 Hz to 10000 Hz it is a mechanical wave",
+        "options": {
+            "A": "(1) and (3)",
+            "B": "(3) only",
+            "C": "(1), (2) and (3)",
+            "D": "(1) and (2)"
+        },
+        "correct_answer": "A",
+        "explanation": "the range of frequencies detectable by the human ear is 20 Hz to 20000 Hz"
+    },
+    {
+        "number": 414,
+        "text": "which of the following properties does a longitudinal wave exhibit? diffraction interference refraction",
+        "options": {
+            "A": "(1) and (2)",
+            "B": "(2) and (3)",
+            "C": "(1) and (3)",
+            "D": "(1), (2) and (3)"
+        },
+        "correct_answer": "D",
+        "explanation": "a longitudinal wave exhibits reflection, refraction, diffraction and interference"
+    },
+    {
+        "number": 415,
+        "text": "which of the following determines the loudness of a sound",
+        "options": {
+            "A": "period",
+            "B": "amplitude",
+            "C": "frequency",
+            "D": "waveform"
+        },
+        "correct_answer": "B",
+        "explanation": "the loudness of a note increases with the amplitude of the sound wave"
+    },
+    {
+        "number": 416,
+        "text": "An electric car is charged by a current of 10 A, find the amount of charge flowing through the car in an hour",
+        "options": {
+            "A": "36000 C",
+            "B": "10000 C",
+            "C": "600 C",
+            "D": "60000 C"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "number": 417,
+        "text": "A copper wire has resistivity , length , and cross-sectional area  , which of the following has the least resistance?",
+        "options": {
+            "A": "one copper wire",
+            "B": "four copper wires arranged in series",
+            "C": "four copper wires arranged in parallel",
+            "D": "two copper wires arranged in parallel"
+        },
+        "correct_answer": "C",
+        "explanation": "since , more copper wires arranged in parallel increases the cross-sectional area and thus decreases the resistance, arranging multiple copper wires in series will increase the length, increasing the resistance"
+    },
+    {
+        "number": 418,
+        "text": "which of the following will cause a household appliance to stop working when removed? live wire neutral wire earth wire",
+        "options": {
+            "A": "(1) and (2)",
+            "B": "(1) and (3)",
+            "C": "(2) and (3)",
+            "D": "(1), (2) and (3)"
+        },
+        "correct_answer": "A",
+        "explanation": "earth wire is used to prevent electric shock, its absence will not stop a household appliance from working"
+    },
+    {
+        "number": 419,
+        "text": "which of the following must be true?",
+        "options": {
+            "A": "the current of d.c. is always constant",
+            "B": "The current-time graph of a.c. resembles the shape of a sine curve",
+            "C": "in a.c. , current does not change direction",
+            "D": "in d.c. ,  current always flows in the same direction"
+        },
+        "correct_answer": "D",
+        "explanation": "current in d.c. always flow in the same direction"
+    },
+    {
+        "number": 420,
+        "text": "which of the following will increase the magnitude of induced e.m.f.? increasing the rate of change in magnetic field increasing the strength of the magnetic field increasing the number of turns of a coil",
+        "options": {
+            "A": "(1) and (2)",
+            "B": "(1) and (3)",
+            "C": "(2) and (3)",
+            "D": "(1), (2) and (3)"
+        },
+        "correct_answer": "D",
+        "explanation": "the magnitude of induced e.m.f. can be increased by moving the conductor or the magnet faster using a stronger magnet using a coil with more turns to increase the length of the conductor within the magnetic field"
+    },
+    {
+        "number": 421,
+        "text": "which of the following is true when turning, the velocity of a car remains unchanged force is required to change the direction of a moving object the gravitational force between the earth and the sun is an example of centripetal force",
+        "options": {
+            "A": "(1) and (2)",
+            "B": "(1) and (3)",
+            "C": "(2) and (3)",
+            "D": "(1), (2) and (3)"
+        },
+        "correct_answer": "C",
+        "explanation": "since the direction of the car is changed, force is required"
+    },
+    {
+        "number": 422,
+        "text": "The power ratings and resistances of light bulb X is \u201c20W, 5\u03a9\u201dand that of light bulb Y are \u201d12.5W, 2\u03a9\u201d. If these two light bulbs are connected in parallel to a power supply, what is the maximum current drawn from the power supply so that both light bulbs are working within the rated power?",
+        "options": {
+            "A": "2.8A",
+            "B": "3.5A",
+            "C": "4.5A",
+            "D": "7A"
+        },
+        "correct_answer": "B",
+        "explanation": "The two light bulbs work at their rated power when the voltages are 10V and 5V respectively. When the voltage is 10V, then Y will work at 50W, which exceeds the rated power. If the voltage is 5V, X will work at 5W and Y will work at 12.5W, both within the rated power. In this case, the total current will be 5/5+5/2=3.5A. Therefore the maximum current is 3.5A"
+    },
+    {
+        "number": 423,
         "text": "Which of the following processes release latent heat?",
         "options": {
             "A": "melting",
@@ -3312,7 +5076,7 @@
         "explanation": "the question ask for releases latent heat , so the answer not A, B, and D"
     },
     {
-        "number": 277,
+        "number": 424,
         "text": "A sealed container holds a gas at 300K. If the gas is heated so that its pressure increases from 60kPa to 180kPa, what is its final temperature? Assume the volume of the gas is fixed.",
         "options": {
             "A": "36K",
@@ -3324,7 +5088,7 @@
         "explanation": "60/300=180/T T=900K"
     },
     {
-        "number": 278,
+        "number": 425,
         "text": "A sealed syringe is filled with 30cm3 of air at a temperature of 29\u00b0C. The syringe is cooled to 4\u00b0C in a freezer. What is the new volume of the air? Assume the air pressure inside the syringe remains constant.",
         "options": {
             "A": "4.14cm3",
@@ -3336,7 +5100,7 @@
         "explanation": "30/(29+273)=V/(4+273) V=27.5cm3"
     },
     {
-        "number": 279,
+        "number": 426,
         "text": "A sealed syringe contains 80cm3 of air at a temperature of 27\u00b0C and a pressure of 100kPa. When the piston is quickly pushed inwards to reduce the volume to 70cm3, the temperature rises to 33\u00b0C.  What is the new pressure?",
         "options": {
             "A": "117kPa",
@@ -3348,7 +5112,7 @@
         "explanation": "100(80)/(27+273)=P(70)/(33+273) P=117kPa"
     },
     {
-        "number": 280,
+        "number": 427,
         "text": "A sealed can of volume 350cm3 contains an ideal gas at 115kPa and 20\u00b0C. What is the number of moles of gas in the can? Take R to be 8.31 J mol-1 K-1.",
         "options": {
             "A": "16.5 mol",
@@ -3360,7 +5124,7 @@
         "explanation": "pV=nRT n=pV/RT=(115*10^3)(350*10^-6)/8.31(20+273) n=0.0165 mol"
     },
     {
-        "number": 281,
+        "number": 428,
         "text": "A man is pushing a car but the car does not move. If the pushing force on the car by the man is the action force, what is the reaction force?",
         "options": {
             "A": "the force acting on the man by the ground",
@@ -3372,7 +5136,7 @@
         "explanation": "the pushing force on the car by the man, so the answer is not A or B. Every action is an equal and opposite reaction, so the answer is C."
     },
     {
-        "number": 282,
+        "number": 429,
         "text": "The masses of blocks A and B are 6 kg and 4 kg respectively. They are connected by a string on the smooth horizontal plane. If A is pulled by a horizontal force of 20 N and the two blocks move to the right together, what is the tension in the string?",
         "options": {
             "A": "6N",
@@ -3384,7 +5148,7 @@
         "explanation": "Fnet = ma\t\t\t\t\tT=6*2 a=2m s^-2\t\t\t\tT=12N"
     },
     {
-        "number": 283,
+        "number": 430,
         "text": "A puppy pulls a towel and remains stationary on the ground. The towel makes an angle of 30\u00b0 to the horizontal and the tension in it is 10N. Find the friction acting on the puppy by the ground?",
         "options": {
             "A": "5N",
@@ -3396,7 +5160,7 @@
         "explanation": "10 cos 30\u00b0 =8.66 N"
     },
     {
-        "number": 284,
+        "number": 431,
         "text": "A spaceship of mass 120 kg flies forwards in outer space. Its rocket is fired to speed up the spaceship from 50 m s^-1 to 60 m s^-1 in 20 s. Assume that the power provided by the rocket is constant and the resistive force acting on the spaceship is negligible. Find the power of the rocket.",
         "options": {
             "A": "33 W",
@@ -3408,7 +5172,7 @@
         "explanation": "\u00bd mu^2+Pt=\u00bd mv^2 P=\u00bd *120*(60^2-50^2)/20 P=3300W"
     },
     {
-        "number": 285,
+        "number": 432,
         "text": "Jason of mass 50 kg holds a 2 kg ball and skates forwards at 3 m s^-1 . Then he throws the ball so that it moves forwards at 10 m s^-1. What is his velocity after throwing the ball?",
         "options": {
             "A": "1.61 m s^-1",
